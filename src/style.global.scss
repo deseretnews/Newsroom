@@ -1,0 +1,18 @@
+div.newsroom {
+    display: block;
+}
+
+div.newsroom.inline {
+    display: block;
+    float: left;
+    margin: 10px 25px 15px 0px;
+    width: 300px;
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.newsroom.inline {
+        float: none;
+        width: 100%;
+        margin: 25px 0px;
+    }
+}
