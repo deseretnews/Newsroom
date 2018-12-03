@@ -13,15 +13,16 @@ div.newsroom[data-app="uid"] {
     }
     div#app {
         display: none;
-    }
-    span#footer {
-        font-size: 0.75em;
-        opacity: 0.75;
+        span#footer {
+            font-size: 0.75em;
+            opacity: 0.75;
+        }
     }
 }
 
 @media only screen and (max-device-width: 480px) {
     div.newsroom[data-app="uid"] {
         padding: 5px;
+        box-sizing: border-box;
     }
 }
