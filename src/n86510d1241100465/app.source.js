@@ -86,6 +86,7 @@ export default (function() {
                 captionElem.style.animationName = 'fadeIn';
                 attachEventListeners();
                 imageElems.current.onclick = () => clearInterval(automateSlides);
+                imageElems.current.scrollTop = 0;
             }, 500);
         }, 1);
     }

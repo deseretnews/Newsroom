@@ -153,7 +153,11 @@ div.newsroom[data-app="n86510d1241100465"] {
     div#app {
         display: none;
         position: relative;
-        height: 400px;
+        height: 450px;
+
+        ::-webkit-scrollbar {
+            display: none;
+        }
 
         div#slider {
             position: relative;
@@ -193,6 +197,7 @@ div.newsroom[data-app="n86510d1241100465"] {
 
             div#current {
                 margin-left: 20%;
+                overflow-y: scroll;
             }
 
             div#previous,
