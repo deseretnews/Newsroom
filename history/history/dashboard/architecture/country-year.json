@@ -1,0 +1,14 @@
+{
+    "year": null,
+    "est-population": null,
+    "total-membership": null,
+    "stakes": [""],
+    "wards": [""],
+    "branches-in-stakes": [""],
+    "branches-in-missions": [""],
+    "missions": [""],
+    "districts": [""],
+    "total-ward-branches": null,
+    "temples": [""],
+    "first-stake": ""
+}

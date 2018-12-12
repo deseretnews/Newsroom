@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" routerLink="/home">
+    <img src="https://www.deseretnews.com/v4/dist/3d030804bee0161fa244b52a297c43e6.svg" />
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav" *ngIf="signedIn">
+      <a class="nav-item nav-link" routerLink="/venues">Venues</a>
+      <a class="nav-item nav-link" routerLink="/almanac">Almanac</a>
+      <a class="nav-item nav-link" (click)="logout()" routerLink="/login">Logout</a>
+    </div>
+  </div>
+</nav>

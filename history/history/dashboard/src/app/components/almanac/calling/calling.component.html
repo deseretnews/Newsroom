@@ -1,0 +1,43 @@
+<div class="row">
+  <div class="col-12">
+    <h3>Callings</h3>
+  </div>
+  <div class="col-3">
+    <input (keyup)="findCalling()" type="text" class="form-control" [(ngModel)]="this.calling.name" name="calling"
+      placeholder="Search or add calling by name..." autocomplete="off">
+  </div>
+  <div class="col-3">
+    <input (keyup)="findCalling()" type="text" class="form-control" [(ngModel)]="this.date.start.ui" name="start date"
+      placeholder="Start MM/DD/YYYY" (keyup)="formatDate($event, 'start')">
+  </div>
+  <div class="col-3">
+    <input (keyup)="findCalling()" type="text" class="form-control" [(ngModel)]="this.date.end.ui" name="end date"
+      placeholder="End MM/DD/YYYY" (keyup)="formatDate($event, 'end')">
+  </div>
+  <div class="col-3">
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" [(ngModel)]="this.calling.emeritus">
+      <label class="form-check-label" for="defaultCheck1">
+        Emeritus
+      </label>
+    </div>
+  </div>
+  <div class="col-12">
+    <br />
+    <button *ngIf="!this.editor.editing" class="btn btn-primary" (click)="add()">Add Calling</button>
+    <button *ngIf="this.editor.editing" class="btn btn-primary" (click)="add(this.editor.key)">Update Calling</button>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <br />
+    <ul *ngIf="getKeys(this.callingResults).length > 0">
+      <li *ngFor="let key of getKeys(this.callingResults)">
+        {{ this.callingResults[key].name }}
+        <a (click)="edit(key)">Edit</a>
+        <a (click)="delete(key)" class="delete">Delete</a>
+        <a (click)="addCallingToPerson(key)">Add To Person</a>
+      </li>
+    </ul>
+  </div>
+</div>

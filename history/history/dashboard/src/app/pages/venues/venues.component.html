@@ -1,0 +1,60 @@
+<h1>Venues</h1>
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="photo" [style.background-image]="setBackground(venue.image)"></div>
+  </div>
+  <div class="col-md-8">
+    <input type="email" class="form-control" placeholder="Name" [(ngModel)]="venue.name">
+    <input type="email" class="form-control" placeholder="Image" [(ngModel)]="venue.image">
+    <input type="email" class="form-control" placeholder="Location" [(ngModel)]="venue.location">
+    <input type="email" class="form-control" placeholder="Capacity" [(ngModel)]="venue.capacity">
+    <input type="email" class="form-control" placeholder="Parking" [(ngModel)]="venue.parking">
+    <input type="email" class="form-control" placeholder="Security" [(ngModel)]="venue.security">
+    <input type="email" class="form-control" placeholder="Phone" [(ngModel)]="venue.phone">
+    <input type="email" class="form-control" placeholder="Website URL" [(ngModel)]="venue.website">
+    <textarea class="form-control" placeholder="Food and beverage" rows="3" [(ngModel)]="venue.food"></textarea>
+    <textarea class="form-control" placeholder="Notes" rows="3" [(ngModel)]="venue.notes"></textarea>
+    <div *ngIf="editor.success" class="alert alert-success" role="alert">
+      {{editor.success}}
+    </div>
+    <div *ngIf="editor.error" class="alert alert-danger" role="alert">
+      {{editor.error}}
+    </div>
+    <div *ngIf="editor.warning" class="alert alert-warning" role="alert">
+      {{editor.warning}}
+    </div>
+    <button class="btn btn-primary" (click)="post()">Submit</button>
+    <button class="btn btn-secondary" (click)="clear()">Clear</button>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Name</th>
+          <th scope="col">Location</th>
+          <th scope="col">Phone</th>
+          <th scope="col">Website</th>
+          <th scope="col">Options</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let venue of venues.reverse(); index as x">
+          <td>{{venue.name}}</td>
+          <td>{{venue.location}}</td>
+          <td>{{venue.phone}}</td>
+          <td>
+            <a href="http://www.{{venue.website}}" target="_blank">{{venue.website}}</a>
+          </td>
+          <td>
+            <span class="edit" (click)="edit(venues.length - x - 1)">Edit</span> or
+            <span class="delete" (click)="delete(venues.length - x - 1)">Delete</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

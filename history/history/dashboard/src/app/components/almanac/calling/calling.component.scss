@@ -1,0 +1,21 @@
+button {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+    li a {
+        color: #007bff;
+        cursor: pointer;
+        margin-left: 15px;
+    }
+    li a.delete {
+        color: red;
+    }
+}
+
+div.form-check {
+    margin-top: 6px;
+    text-align: center;
+}

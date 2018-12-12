@@ -3,7 +3,7 @@ require('./style.source.scss');
 let html = require('./markup.source.html');
 const json = require('./data.source.js');
 
-export default function() {
+export default (function() {
     // setup
     const UID = 'n86510d1241100465';
     const selector = `div.newsroom[data-app="${UID}"]`;
@@ -111,4 +111,4 @@ export default function() {
     // display
     loading.style.display = 'none';
     app.style.display = 'block';
-}
+})();

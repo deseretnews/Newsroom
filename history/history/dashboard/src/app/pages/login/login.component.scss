@@ -1,0 +1,25 @@
+div.row {
+    div {
+        h1 {
+            margin-bottom: 25px;
+            text-align: center;
+        }
+        div.input-group {
+            margin-bottom: 15px;
+            div {
+                span {
+                    width: 100px;
+                }
+            }
+        }
+        button.btn {
+            margin-bottom: 25px;
+        }
+        span.error {
+            display: block;
+            margin-bottom: 15px;
+            color: red;
+            font-style: italic;
+        }
+    }
+}

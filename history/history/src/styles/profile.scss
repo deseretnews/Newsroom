@@ -1,0 +1,57 @@
+div.interactive[data-type="profile"] {
+    display: grid;
+    grid-template-columns: 1fr;
+    div.profile {
+        display: inline-block;
+        padding-right: 25px;
+        box-sizing: border-box;
+        width: 100%;
+        max-width: 350px;
+        margin: 0px auto 25px auto;
+        div.info {
+            display: inline-block;
+            div.profile-image {
+                width: 125px;
+                height: 150px;
+                background-position: center center;
+                background-size: cover;
+                margin-right: 15px;
+                float: left;
+                vertical-align: top;
+            }
+            h2.profile-name {
+                font-size: 1.25em;
+                display: inline;
+                vertical-align: top;
+            }
+        }
+        div.bullet {
+            padding: 15px 0px;
+            border-bottom: solid thin grey;
+            font-size: 0.75em;
+        }
+        div.bullet:nth-last-child(2),
+        div.bullet:last-child {
+            border-bottom: none;
+        }
+        div.bullet.view-all {
+            border-bottom: none;
+            text-align: center;
+            cursor: pointer;
+            span.arrow {
+                margin-left: 25px;
+                font-size: 2em;
+                position: absolute;
+                margin-top: -10px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="profile"] {
+        div.profile {
+            width: 100%;
+        }
+    }
+}

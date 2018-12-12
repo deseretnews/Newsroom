@@ -1,0 +1,39 @@
+div.interactive {
+    h2 {
+        font-size: 2em;
+        font-weight: bold;
+        line-height: 1em;
+    }
+}
+
+div.interactive.inline {
+    display: block;
+    float: left;
+    margin: 10px 25px 15px 0px;
+    width: 300px;
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive.inline {
+        float: none;
+        width: 100%;
+        margin: 25px 0px;
+    }
+}
+
+@import "./list.scss";
+@import "./timeline.scss";
+@import "./navigational.scss";
+@import "./faqs.scss";
+@import "./bullets.scss";
+@import "./slideshow.scss";
+@import "./choropleth.scss";
+@import "./lineGraph.scss";
+@import "./profile.scss";
+@import "./guessingGame.scss";
+@import "./qAndA.scss";
+@import "./textBox.scss";
+@import "./photoExplorer.scss";
+@import "./recipe.scss";
+@import "./icons.scss";
+@import "./quizlet.scss";

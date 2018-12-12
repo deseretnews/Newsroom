@@ -1,0 +1,108 @@
+{
+    "title": "How important are the following things to your personal identity?",
+    "categories": [{
+        "title": "Race",
+        "subcategories": ["white", "black", "hispanic"]
+    }, {
+        "title": "Gender",
+        "subcategories": ["women", "men"]
+    }, {
+        "title": "Political Affiliation",
+        "subcategories": ["republican", "democrat", "independent"]
+    }],
+    "questions": [{
+        "text": "My role as a spouse or partner",
+        "results": {
+            "all": 0.69,
+            "white": 0.68,
+            "black": 0.73,
+            "hispanic": 0.7,
+            "men": 0.73,
+            "women": 0.67,
+            "republican": 0.78,
+            "democrat": 0.64,
+            "independent": 0.62
+        }
+    }, {
+        "text": "My religion",
+        "results": {
+            "all": 0.43,
+            "white": 0.39,
+            "black": 0.64,
+            "hispanic": 0.44,
+            "men": 0.4,
+            "women": 0.45,
+            "republican": 0.58,
+            "democrat": 0.33,
+            "independent": 0.38
+        }
+    }, {
+        "text": "My race",
+        "results": {
+            "all": 0.29,
+            "white": 0.19,
+            "black": 0.73,
+            "hispanic": 0.41,
+            "men": 0.29,
+            "women": 0.3,
+            "republican": 0.28,
+            "democrat": 0.32,
+            "independent": 0.26
+        }
+    }, {
+        "text": "My political party",
+        "results": {
+            "all": 0.28,
+            "white": 0.28,
+            "black": 0.35,
+            "hispanic": 0.28,
+            "men": 0.29,
+            "women": 0.27,
+            "republican": 0.36,
+            "democrat": 0.32,
+            "independent": 0.09
+        }
+    }, {
+        "text": "My career or job",
+        "results": {
+            "all": 0.37,
+            "white": 0.33,
+            "black": 0.46,
+            "hispanic": 0.42,
+            "men": 0.38,
+            "women": 0.36,
+            "republican": 0.39,
+            "democrat": 0.39,
+            "independent": 0.29
+        }
+    }, {
+        "text": "My community",
+        "results": {
+            "all": 0.3,
+            "white": 0.26,
+            "black": 0.44,
+            "hispanic": 0.31,
+            "men": 0.28,
+            "women": 0.31,
+            "republican": 0.32,
+            "democrat": 0.3,
+            "independent": 0.25
+        }
+    }],
+    "responses": [{
+        "text": "Not at all important",
+        "valid": false
+    }, {
+        "text": "Not too important",
+        "valid": false
+    }, {
+        "text": "Somewhat important",
+        "valid": false
+    }, {
+        "text": "Very important",
+        "valid": true
+    }, {
+        "text": "Extremely important",
+        "valid": true
+    }]
+}

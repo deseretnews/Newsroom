@@ -1,0 +1,24 @@
+{
+    "header": "Reducing Pollution",
+    "subheader": "Explore how you can help make Utah's air cleaner.",
+    "images": {
+        "large": "https://www.deseretnews.com/project/assets/images/air-quality/4x/",
+        "small": "https://www.deseretnews.com/project/assets/images/air-quality/2x/"
+    },
+    "sections": [{
+        "page": "building-info.png",
+        "icon": "building-icon.png"
+    }, {
+        "page": "fire-info.png",
+        "icon": "fire-icon.png"
+    }, {
+        "page": "train-info.png",
+        "icon": "train-icon.png"
+    }, {
+        "page": "bike-info.png",
+        "icon": "bike-icon.png"
+    }, {
+        "page": "car-info.png",
+        "icon": "car-icon.png"
+    }]
+}

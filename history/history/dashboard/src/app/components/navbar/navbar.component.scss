@@ -1,0 +1,19 @@
+nav.navbar {
+  margin-bottom: 25px;
+  text-align: center;
+  a.navbar-brand {
+    margin-left: 25px;
+    img {
+      height: 25px;
+    }
+  }
+  div.collapse {
+    div.navbar-nav {
+      margin-left: auto;
+      order: 2;
+      a {
+          cursor: pointer;
+      }
+    }
+  }
+}

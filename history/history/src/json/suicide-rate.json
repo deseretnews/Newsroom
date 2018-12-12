@@ -1,0 +1,20 @@
+{
+    "title": "Youth suicide rates on the rise",
+    "description": "The annual rate of suicides for youths ages 10 to 17 increased nationwide and in Utah between 2007 and 2015. The below rates represent suicides per 100,000 people in the age group.*",
+    "footer": "*While data for 2016 and 2017 are not available, Utah 2015 number represents 44 suicides by Utahns ages 10-17. State data shows 32 teens died by suicide in 2016 and 42 in 2017.<br /><br />SOURCE: Utah Office of Vital Records and Statistics",
+    "lines": [{
+        "title": "Utah",
+        "color": "green",
+        "values": [3, 4.7, 4.6, 5.8, 4.6, 5.9, 8.1, 8.5, 11.1]
+    }, {
+        "title": "U.S.",
+        "color": "blue",
+        "values": [2.4, 2.9, 3.1, 3, 3.4, 3.5, 3.7, 4, 4.2]
+    }],
+    "increment": 2,
+    "years": {
+        "start": 2007,
+        "end": 2015,
+        "increment": 1
+    }
+}

@@ -1,0 +1,94 @@
+<section>
+  <h4>New Person</h4>
+  <form>
+    <div class="row">
+      <!-- basic -->
+      <div class="col-3">
+        <input type="text" autocomplete="given-name" class="form-control" [(ngModel)]="this.name.first" name="first-name" placeholder="First name">
+      </div>
+      <div class="col-3">
+        <input type="text" autocomplete="family-name" class="form-control" [(ngModel)]="this.name.last" name="last-name" placeholder="Last name">
+      </div>
+      <div class="col-3">
+        <input type="text" autocomplete="bday" class="form-control" [(ngModel)]="this.birthDate" (keyup)="formatDateInput($event, 'birthDate')" name="birth-date" placeholder="Birth Date MM/DD/YYYY">
+      </div>
+      <div class="col-3">
+        <input type="text" class="form-control" [(ngModel)]="this.deathDate" name="death-date" (keyup)="formatDateInput($event, 'deathDate')" placeholder="Death Date MM/DD/YYYY">
+      </div>
+      <!-- birth -->
+      <div class="col-3">
+        <input type="text" autocomplete="address-level1" class="form-control" [(ngModel)]="this.birthLocation.street1" name="birth-street"
+          placeholder="Birth Street">
+      </div>
+      <div class="col-3">
+        <select class="form-control" [(ngModel)]="this.birthLocation.country" (change)="updateStates()" name="birth-countries" autocomplete="country-name">
+          <option value="" disabled selected>Select Country</option>
+          <option *ngFor="let country of this.countries" value="{{ country.uid }}">{{ country.name }}</option>
+        </select>
+      </div>
+      <div class="col-3">
+        <select class="form-control" [(ngModel)]="this.birthLocation.state" name="birth-states" autocomplete="state">
+          <option value="" disabled selected>Select State</option>
+          <option *ngFor="let state of this.states.birth" value="{{ state.uid }}">{{ state.name }}</option>
+        </select>
+      </div>
+      <div class="col-3">
+        <input type="text" autocomplete="postal-code" class="form-control" [(ngModel)]="this.birthLocation.postal" name="birth-postal"
+          placeholder="Birth Zip" type="number">
+      </div>
+      <!-- death -->
+      <div class="col-3">
+        <input type="text" autocomplete="address-level1" class="form-control" [(ngModel)]="this.deathLocation.street1" name="death-street1"
+          placeholder="Death Street">
+      </div>
+      <div class="col-3">
+        <select class="form-control" [(ngModel)]="this.deathLocation.country" (change)="updateStates()" name="death-countries" autocomplete="country-name">
+          <option value="" disabled selected>Select Country</option>
+          <option *ngFor="let country of this.countries" value="{{ country.uid }}">{{ country.name }}</option>
+        </select>
+      </div>
+      <div class="col-3">
+        <select class="form-control" [(ngModel)]="this.deathLocation.state" name="death-states" autocomplete="state">
+          <option value="" disabled selected>Select State</option>
+          <option *ngFor="let state of this.states.death" value="{{ state.uid }}">{{ state.name }}</option>
+        </select>
+      </div>
+      <div class="col-3">
+        <input type="text" autocomplete="postal-code" class="form-control" [(ngModel)]="this.deathLocation.postal" name="death-postal"
+          placeholder="Death Zip" type="number">
+      </div>
+      <!-- photo -->
+      <div class="col-12">
+        <input type="text" autocomplete="url" class="form-control" [(ngModel)]="this.person.photo" name="photo-url" placeholder="Photo URL">
+      </div>
+      <!-- bio -->
+      <div class="col-12">
+        <textarea type="text" class="form-control" [(ngModel)]="this.person.bio" name="bio" placeholder="Bio"></textarea>
+      </div>
+      <div class="col-12">
+          <div *ngIf="this.error" class="alert alert-danger" role="alert">
+            {{ this.error }}
+          </div>
+          <button class="btn btn-primary" (click)="save()">Save Person</button>
+          <button class="btn btn-secondary" (click)="clear()">Clear Person</button>
+        </div>
+      </div>
+      <!-- calling -->
+      <app-calling [uid]="this.uid" (update)="updateCallings()"></app-calling>
+      <div class="col-12">
+        <ul>
+          <li>
+            <b *ngIf="this.person.callings && this.person.callings.length > 0">This Person's Calling(s)</b>
+            <b *ngIf="!this.person.callings">This Person Has No Callings</b>
+          </li>
+          <li *ngFor="let key of this.person.callings">
+            <span *ngIf="callings[key]">{{ callings[key].name }}</span>
+            <span *ngIf="!callings[key]">Calling "{{ key }}" not found...</span>
+          </li>
+        </ul>
+      </div>
+  </form>
+  <br />
+  <h4>Recently Added People</h4>
+  <app-people (edit)="edit($event)"></app-people>
+</section>

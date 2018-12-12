@@ -1,0 +1,28 @@
+@import '../style.global.scss';
+
+div.newsroom[data-app="uid"] {
+    background-color: #1C1C1C;
+    color: #EEE;
+    padding: 15px;
+    h1 {
+        color: #EEE;
+        margin: 0px;
+    }
+    div#loading {
+        display: block;
+    }
+    div#app {
+        display: none;
+        span#footer {
+            font-size: 0.75em;
+            opacity: 0.75;
+        }
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.newsroom[data-app="uid"] {
+        padding: 5px;
+        box-sizing: border-box;
+    }
+}

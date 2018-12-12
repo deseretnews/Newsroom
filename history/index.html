@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://www.deseretnews.com/v4/dist/app.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Newsroom</title>
+    <style>
+        footer,
+        div#wrapper,
+        div#list {
+            padding-left: 0;
+            width: calc(100% - 200px);
+            max-width: 750px;
+            text-align: left;
+            margin: 0px auto;
+            padding: 65px 0px 25px 0px;
+        }
+
+        div#list>ul>li {
+            cursor: pointer;
+        }
+
+        @media only screen and (max-device-width: 480px) {
+
+            footer,
+            div#wrapper {
+                width: calc(100% - 20px);
+                margin: 0px 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header data-reactroot="" id="header" class="headroom headroom--pinned headroom--not-top">
+        <div class="container container--header">
+            <div class="container--left">
+            </div>
+            <div class="container--center">
+                <div id="header-title">
+                    <a href="./" class="beehive"></a>
+                    <a href="./" id="logo">
+                        <span class="logo__label">Newsroom</span>
+                    </a>
+                    <a href="./" class="section__title">Newsroom</a>
+                </div>
+            </div>
+            <div class="container--right">
+                <button class="header__button header__button--search">
+                    <i class="fa fa-search btn-icon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+    <div class="article-main">
+        <div class="article-body">
+            <div id="list">
+                <h1>All Interactives</h1>
+            </div>
+            <div class="article-body-text-wrapper" id="wrapper">
+                <p>Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at
+                    lobortis.
+                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
+                    sit
+                    amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                    Sed
+                    posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl
+                    consectetur
+                    et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget
+                    urna
+                    mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+                    Vestibulum
+                    id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Nulla vitae
+                    elit
+                    libero, a pharetra augue.</p>
+                <div class="newsroom"></div>
+                <p>Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac
+                    cursus commodo,
+                    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla
+                    non
+                    metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec
+                    id
+                    elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Vivamus
+                    sagittis
+                    lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel
+                    scelerisque
+                    nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla
+                    non
+                    metus auctor fringilla.</p>
+                <p>Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
+                    Donec
+                    ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Aenean eu leo
+                    quam.
+                    Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus
+                    eget urna
+                    mollis ornare vel eu leo. Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor
+                    mauris
+                    condimentum nibh, ut fermentum massa justo sit amet risus. Lorem ipsum dolor sit amet, consectetur
+                    adipiscing
+                    elit. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
+                    semper.
+                    Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare
+                    vel
+                    eu leo.</p>
+            </div>
+        </div>
+    </div>
+    <footer style="padding-top: 0px;">
+        <span id="react_wrapper_footer">
+            <div data-reactroot="" class="container">
+                <div id="footer-full-post" style="margin-bottom: 25px; border-top: 1px solid #ccc; padding-top: 15px;">
+                    <div class="footer-post-links">
+                        <span id="footer-copyright">
+                        </span>
+                        Interactive applications for your articles!
+                    </div>
+                    <div class="footer-channels">
+                        <a href="/" class="footer-local" style="background-image: url('http://jadeallencook.com/assets/img/ui/logo-black.png');">Newsroom.js</a>
+                    </div>
+                </div>
+                <div id="footer-mobile">
+                    <div id="footer-mobile-links">
+                        Interactive applications for your articles!
+                        <br />
+                        <a href="./">Click Here To Return Home</a>
+                    </div>
+                    <div id="footer-mobile-channels">
+                        <span id="footer-copyright-mobile">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </span>
+    </footer>
+    <script>
+        (function () {
+            var wrapper = document.getElementById('wrapper'),
+                list = document.getElementById('list');
+
+            function load() {
+                list.style.display = 'none';
+                wrapper.style.display = 'block';
+                var uid = window.location.hash.replace('#', '');
+                document.querySelector('div.newsroom').setAttribute('data-app', uid);
+                var script = document.createElement('script');
+                script.setAttribute('src', 'dist/' + uid + '.min.js');
+                wrapper.appendChild(script);
+            }
+            if (window.location.hash) {
+                load();
+            } else {
+                var xmlhttp = new XMLHttpRequest();
+                wrapper.style.display = 'none';
+                list.style.display = 'block';
+                xmlhttp.onreadystatechange = function () {
+                    if (this.readyState == 4 && this.status == 200) {
+                        var response = JSON.parse(this.responseText),
+                            keys = Object.keys(response),
+                            ul = document.createElement('ul');
+                        for (var x = 0, max = keys.length; x < max; x++) {
+                            var key = keys[x],
+                                item = document.createElement('li');
+                            item.innerText = (response[key].alias) ? response[key].alias : key;
+                            item.innerText += ' (' + new Date(response[key].created).toLocaleDateString() + ')';
+                            item.onclick = function () {
+                                window.location.hash = key;
+                                load();
+                            }
+                            ul.appendChild(item);
+                        }
+                        list.appendChild(ul);
+                    }
+                };
+                xmlhttp.open('get', 'interactives.json', true);
+                xmlhttp.send();
+            }
+        })();
+    </script>
+</body>
+
+</html>

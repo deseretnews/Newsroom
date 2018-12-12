@@ -164,10 +164,11 @@
                         for (var x = 0, max = keys.length; x < max; x++) {
                             var key = keys[x],
                                 item = document.createElement('li');
+                            item.setAttribute('data-key', key);
                             item.innerText = (response[key].alias) ? response[key].alias : key;
                             item.innerText += ' (' + new Date(response[key].created).toLocaleDateString() + ')';
                             item.onclick = function () {
-                                window.location.hash = key;
+                                window.location.hash = this.getAttribute('data-key');
                                 load();
                             }
                             ul.appendChild(item);

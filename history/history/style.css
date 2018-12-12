@@ -1,0 +1,60 @@
+h1 {
+    margin: 0px 0px 0px 0px;
+}
+
+a.beehive {
+    display: block;
+    margin: 25px auto 0px auto;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+textarea {
+    width: 494px;
+    height: 100px;
+}
+
+div#wrapper {
+    width: 500px;
+    max-width: 100%;
+    margin: 0px auto;
+    text-align: left;
+}
+
+div#wrapper div.interactive {
+    background-color: #333;
+    color: #fff;
+    display: block;
+    width: 100%;
+    margin: 15px 0px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+div#wrapper div.interactive a {
+    font-size: 0.75em;
+    margin-right: 15px;
+    color: #fff;
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(31, 228, 228);
+}
+
+div#wrapper div.interactive span.title {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+div#wrapper div.interactive span {
+    display: block;
+    margin-bottom: 15px;
+    font-size: 0.75em;
+}
+
+small {
+    display: block;
+    font-size: 0.75em;
+    margin: 25px 0px;
+}

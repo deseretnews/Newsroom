@@ -1,0 +1,132 @@
+div.interactive[data-type="navigational"] {
+    padding: 50px 0px;
+    p:first-of-type {
+        font-size: 1em;
+        overflow: hidden;
+        color: #000;
+        line-height: 1.2em;
+    }
+    img {
+        width: 100%;
+        margin-bottom: 65px;
+    }
+    div.icons {
+        text-align: center;
+        a:hover {
+            opacity: 0.5;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        a {
+            display: inline-block;
+            white-space: nowrap;
+            color: #000;
+            margin: 5px;
+            img {
+                width: 70px;
+                margin: 5px auto;
+                display: block;
+            }
+            span {
+                font-size: 0.75em;
+            }
+        }
+    }
+    .custom-select {
+        margin: 25px auto 0px auto;
+        display: block;
+    }
+    .custom-select select {
+        background: transparent;
+        width: 110%;
+        padding: 5px;
+        font-size: 16px;
+        line-height: 1.1;
+        border: 0;
+        border-radius: 0;
+        margin-bottom: 2px;
+        -webkit-appearance: none;
+    }
+    p {
+        margin: 25px 0px;
+    }
+    a.section:hover {
+        text-decoration: none;
+    }
+    a.section {
+        display: block;
+        float: left;
+        color: #000;
+        margin-bottom: 50px;
+        img {
+            width: 150px;
+            display: block;
+            float: left;
+            margin: 0px 25px 5px 0px;
+        }
+        h2 {
+            display: block;
+            color: #000;
+            font-weight: bold;
+        }
+        span.description {
+            margin-bottom: 25px;
+            display: block;
+        }
+        span.sub-title {
+            display: block;
+            font-weight: bold;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+            li {
+                padding-left: 30px;
+                margin: 15px 0px;
+                background-size: 20px;
+                background-repeat: no-repeat;
+                background-position: 0 .25em;
+                a {
+                    color: #000;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+    a.snap {
+        position: fixed;
+        bottom: 15px;
+        right: 15px;
+        z-index: 9999;
+        color: #fff;
+        cursor: pointer;
+        padding: 15px;
+        background-color: #000;
+        border-radius: 100%;
+    }
+    a.snap:hover {
+        text-decoration: none;
+        opacity: 0.5;
+    }
+    a.snap-location {
+        display: block;
+        position: absolute;
+        margin-top: -100px;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="navigational"] {
+        a.section {
+            img {
+                width: 35%;
+            }
+        }
+        div.icons {
+            a {
+                padding-bottom: 15px;
+            }
+        }
+    }
+}

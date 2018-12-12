@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "color": "",
+        "description": ""
+    },
+    "categories": [{
+        "title": "same",
+        "image": "",
+        "description": ""
+    }, {
+        "image": ""
+    }],
+    "bullets": [{
+        "category": "same",
+        "subcategory": "",
+        "state": "",
+        "bills": [""],
+        "links": [""],
+        "description": ""
+    }]
+}

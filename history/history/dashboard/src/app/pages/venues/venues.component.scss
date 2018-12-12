@@ -1,0 +1,48 @@
+div.row {
+  margin-bottom: 25px;
+  div {
+      span.success {
+          color: blue;
+      }
+      span.error {
+          color: red;
+      }
+    div.photo {
+      height: 250px;
+      width: 90%;
+      float: left;
+      background-color: grey;
+      margin-bottom: 25px;
+      background-size: cover;
+      background-position: center center;
+    }
+  }
+  input, 
+  textarea {
+      margin-bottom: 15px;
+  }
+  input {
+      width: 40%;
+      display: inline-block;
+      margin-right: 15px;
+  }
+  div {
+      table {
+          tbody {
+              tr {
+                  td {
+                      span {
+                          cursor: pointer;
+                      }
+                      span.delete {
+                          color: red;
+                      }
+                      span.edit {
+                          color: #007bff;
+                      }
+                  }
+              }
+          }
+      }
+  }
+}

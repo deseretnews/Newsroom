@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://www.deseretnews.com/v4/dist/app.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../dist/newsroom.min.css" />
+    <title>Newsroom.js Example</title>
+    <style>
+        footer,
+        div#wrapper {
+            padding-left: 0;
+            width: calc(100% - 200px);
+            max-width: 750px;
+            text-align: left;
+            margin: 0px auto;
+            padding: 65px 0px 25px 0px;
+        }
+
+        @media only screen and (max-device-width: 480px) {
+            footer,
+            div#wrapper {
+                width: calc(100% - 20px);
+                margin: 0px 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header data-reactroot="" id="header" class="headroom headroom--pinned headroom--not-top">
+        <div class="container container--header">
+            <div class="container--left">
+            </div>
+            <div class="container--center">
+                <div id="header-title">
+                    <a href="../" class="beehive"></a>
+                    <a href="../" id="logo">
+                        <span class="logo__label">Newsroom.js</span>
+                    </a>
+                    <a href="../" class="section__title">Newsroom.js</a>
+                </div>
+            </div>
+            <div class="container--right">
+                <button class="header__button header__button--search">
+                    <i class="fa fa-search btn-icon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+    <div class="article-main">
+        <div class="article-body">
+            <div class="article-body-text-wrapper" id="wrapper">
+                <p>Maecenas sed diam eget risus varius blandit sit amet non magna. Sed posuere consectetur est at lobortis.
+                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
+                    amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed
+                    posuere consectetur est at lobortis. Praesent commodo cursus magna, vel scelerisque nisl consectetur
+                    et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna
+                    mollis ornare vel eu leo. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum
+                    id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Nulla vitae elit
+                    libero, a pharetra augue.</p>
+                <div class="interactive"></div>
+                <p>Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo,
+                    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non
+                    metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id
+                    elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis
+                    lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque
+                    nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non
+                    metus auctor fringilla.</p>
+                <p>Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum. Donec
+                    ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Aenean eu leo quam.
+                    Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+                <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna
+                    mollis ornare vel eu leo. Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+                    condimentum nibh, ut fermentum massa justo sit amet risus. Lorem ipsum dolor sit amet, consectetur adipiscing
+                    elit. Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper.
+                    Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel
+                    eu leo.</p>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <span id="react_wrapper_footer">
+            <div data-reactroot="" class="container">
+                <div id="footer-full">
+                    <time>
+                        <a class="footer-archive-link" href="../">Newsroom.js</a>
+                    </time>
+                    <div class="footer-cols-wrapper">
+                        <div class="footer-col">
+                            <div class="footer-col-head">Connect</div>
+                            <a class="footer-col-link" target="_blank" href="https://www.facebook.com/jadeallencook/" id="footer-facebook">Facebook</a>
+                            <a class="footer-col-link" target="_blank" href="https://twitter.com/jadeallencook" id="footer-twitter">Twitter</a>
+                            <a class="footer-col-link" href="mailto:jadeallencook@gmail.com" id="footer-email">Email</a>
+                        </div>
+                        <div class="footer-col">
+                            <div class="footer-col-head">Other Interactives</div>
+                            <a class="footer-col-link" href="..//examples/#bullets" onclick="location.reload();document.body.scrollTop = document.documentElement.scrollTop = 0;">Bullets</a>
+                            <a class="footer-col-link" href="..//examples/#faqs" onclick="location.reload();document.body.scrollTop = document.documentElement.scrollTop = 0;">FAQs</a>
+                            <a class="footer-col-link" href="..//examples/#navigational" onclick="location.reload();document.body.scrollTop = document.documentElement.scrollTop = 0;">Navigational</a>
+                            <a class="footer-col-link" href="..//examples/#timeline" onclick="location.reload();document.body.scrollTop = document.documentElement.scrollTop = 0;">Timeline</a>
+                            <a class="footer-col-link" href="../examples/#list" onclick="location.reload();document.body.scrollTop = document.documentElement.scrollTop = 0;">Anchor List</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="footer-full-post" style="margin-bottom: 25px;">
+                    <div class="footer-post-links">
+                        <span id="footer-copyright">
+                        </span>
+                        Interactive applications for your articles!
+                    </div>
+                    <div class="footer-channels">
+                        <a href="/" class="footer-local" style="background-image: url('http://jadeallencook.com/assets/img/ui/logo-black.png');">Newsroom.js</a>
+                    </div>
+                </div>
+                <div id="footer-mobile">
+                    <div id="footer-mobile-links">
+                        Interactive applications for your articles!
+                        <br />
+                        <a href="../">Click Here To Return Home</a>
+                    </div>
+                    <div id="footer-mobile-channels">
+                        <span id="footer-copyright-mobile">
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </span>
+    </footer>
+    <script src="../dist/newsroom.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

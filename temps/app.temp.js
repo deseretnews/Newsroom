@@ -3,7 +3,7 @@ require('./style.source.scss');
 let html = require('./markup.source.html');
 const json = require('./data.source.js');
 
-(function() {
+export default (function() {
     // setup
     const UID = 'uid';
     const selector = `div.newsroom[data-app="${UID}"]`;

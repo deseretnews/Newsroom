@@ -1,0 +1,838 @@
+{
+    "settings": {
+        "color": "green",
+        "description": "The turf war over the place of faith in the public square is accelerating, and the stakes are rising like never before. Today, nearly every strata of society is affected, from kids in foster care outside Detroit, to college freshmen in Arizona, to florists and cake shop owners in America's heartland. <br /<br /><br />On one side are believers who say their faith communities are threatened by an encroaching secular and godless movement seeking to silence and shun them. On the other side are LGBT and women's rights activists who say Americans are being denied basic human rights and enduring ongoing discrimination under the guise of religious freedom. Many others, including long-time religious liberty advocates, both gay and straight, are alarmed by the direction of today's religious freedom debates, arguing that this value is meant to unify, not tear people apart. <br /<br /><br />The Deseret News spent the past two months researching proposed legislation across the nation to try to gain some sense of where this battle is heading. In Arizona, lawmakers have passed a law requiring new free-speech policies from public colleges. In Oklahoma, the state legislature made it legal for faith-based adoption agencies to turn away same-sex couples. And in New Hampshire, gender identity-based discrimination is now outlawed. In all, the Deseret News found 140 bills regarding religious freedom that were debated so far this year. These bills cover everything from religious clubs in elementary schools to state officials authorized to solemnize weddings, but most deal with LGBT rights, free speech, health care and adoption. <br /<br /><br />Dozens of organizations spend time and money tracking state legislatures because they hold clues about the future of federal policies, said Rose Saxe, a staff attorney with the American Civil Liberties Union. Often, if the same type of bill makes progress in multiple states, it won't take long before a similar bill comes before Congress.<br /<br /><br />\"What happens at the state level is a predicate for what happens at the federal level,\" she said. \"It's important to look at trends.\"<br /<br /><br />This analysis sets the stage for a six-month investigation into the state of religious freedom in America. The Deseret News will explore key conflicts affecting people of faith, sharing the stories of religious college students who feel silenced by school leaders and families caught in the middle of fights over faith-based adoption agencies.<br /<br /><br />Democrats and Republicans, young and old, once rallied around religious freedom. This project will explore why that's no longer the case."
+    },
+    "categories": [{
+        "title": "Adoption",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-34.svg",
+        "description": "The Supreme Court's 2015 ruling legalizing same-sex marriage redefined more than marriage. It was a \"profound legal change,\" and state legislatures are still dealing with the consequences, said Robin Fretwell Wilson, director of the family law and policy program at the University of Illinois College of Law.<br /><br />The latest battlefield affects kids in need of new homes. State lawmakers are deciding whether faith-based adoption or foster care agencies should be allowed to receive government funding if, for religious reasons, they won't serve same-sex couples.<br /><br />These adoption debates involve familiar foes. Conservative Christians and their Republican allies are squaring off against Democrats and LGBT rights activists. Both sides often fail to stay focused on the children waiting for loving homes, Wilson said.<br /><br />\"Of all the religious freedom issues that I've seen in my 15 years of doing this work, (adoption) is the most nuanced of them,\" she said."
+    }, {
+        "title": "On Campus",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-32.svg",
+        "description": "Fires burned near the campus bookstore as former Breitbart News editor Milo Yiannopoulos was escorted from the University of California, Berkeley, in February 2017. School leaders had cancelled his guest lecture two hours before it was scheduled to begin, but not before the campus sustained around $100,000 in damage.<br /><br />Although rare, chaotic protests on college campuses have caught the attention of state lawmakers. Beginning in 2017 and continuing into this year, bills related to campus free speech policies were proposed across the country.<br /><br />This type of legislation seeks to block university interference with controversial guest speakers and ensure that campuses remain a public forum, explained Stanley Kurtz, who co-authored one of the model campus free speech bills, in an email.<br /><br />\"Each shout-down sends a message to students and faculty that says, 'If we can shut down this prestigious outside visitor for raising these issues, think what we can do to you if you try to say the same thing,'\" he said.<br /><br />These bills rarely are aimed directly at protecting students of faith, but many include prohibitions against treating religious student organizations any differently than other groups. Earlier this year, a religious student group sued the University of Iowa after the club was sanctioned for holding group leaders to a faith-based behavioral standard."
+    }, {
+        "title": "Service Refusals",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-33.svg",
+        "description": "One of the Supreme Court's most contentious cases this term began with a conversation about a wedding cake. A gay couple entered Masterpiece Cakeshop in Colorado in July 2012 to ask about cake designs, but learned, instead, about the Christian baker's belief that marriage should only take place between one man and one woman. <br /><br />The gay couple sued, arguing that Colorado law prohibits sexual orientation discrimination. The baker said he's happy to sell LGBT customers other goods, but that wedding cakes send a message about his beliefs on marriage. Legal and political experts across the country are asking what should happen when religious teachings and sexual orientation can't be protected at the same time.<br /><br />The Supreme Court didn't rule on the Masterpiece Cakeshop case until June 4, but that didn't stop legislators from proposing related bills. Missouri lawmakers are debating a measure that would protect clergy members and business owners from state interference if they refuse to participate in a same-sex wedding ceremony. Florida failed to pass two bills supporting the religious exercise rights of store owners. No service refusal bill has passed so far, and few progressed beyond their initial introduction."
+    }, {
+        "title": "LGBT Rights",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-35.svg",
+        "description": "Twenty-two states had laws protecting LGBT residents from discrimination at the start of 2018, and that number may not rise this year despite multiple Democrat-led efforts to increase that number. Seventeen states have debated LGBT rights bills so far this year, and only the New Hampshire legislature, which already had sexual orientation protections in place, passed one.<br /><br />In spite of this low success rate, LGBT rights advocates believe important progress is being made, said Rose Saxe, a staff attorney with the American Civil Liberties Union's LGBT and AIDS projects. Already, 70 percent of U.S. adults favor laws that protect members of the LGBT community from discrimination in housing, hiring and public accommodation, according to Public Religion Research Institute.<br /><br />\"The way you get legislation passed is not through a sudden movement,\" Saxe said. \"You start by getting something introduced and then getting a committee hearing and then getting a full hearing. All those steps provide an opportunity for education.\""
+    }, {
+        "title": "Health Care",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-36.svg",
+        "description": "President Donald Trump has been unsuccessful in his efforts to repeal and replace the Affordable Care Act, but he's weakened some of its core components, including the piece requiring employer health plans to cover birth control.<br /><br />Last fall, the Trump administration announced that any employer with religious or moral objections to contraception could refuse to cover birth control in health plans offered to employees. Although this shift has since been put on hold by a federal judge, many state lawmakers are working to ensure the future of the contraception mandate.<br /><br />Nearly 20 state legislatures have debated some form of state-level contraception mandate so far this year. All would allow exemptions for religious employers who object to birth control."
+    }, {
+        "title": "Misc.",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-38.svg",
+        "description": "Indiana's state-level Religious Freedom Restoration Act, which provided broad protections for conservative, religious residents, sparked a nationwide outcry in 2015. Major corporations threatened to cut ties with the state and professional sports leagues suggested they wouldn't host future events in Indianapolis after it became clear that business owners could use the law to refuse service to LGBT customers. State legislators scrambled to pass revisions.<br /><br />The widely covered fallout helped make this type of bill, modeled on the federal Religious Freedom Restoration Act of 1993, which restricts when the government can limit someone's religious exercise rights, less popular today than it was in the past. In 2015, 17 states considered some version of a state-level religious freedom act, according to the National Conference of State Legislatures. This year, that figure dropped to two states. <br /><br />Many state legislatures have turned their attention to narrower bills, which focus on issues like adoption or birth control, that better fly under the national radar, said Maggie Garrett, legislative director for Americans United for Separation of Church and State.<br /><br />\"In past years, we would see very broad bills that applied to everything. I think those were very unpopular. There was a lot of blowback,\" she said. \"Now, we're seeing much narrower bills.\""
+    }, {
+        "title": "Summary",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-37.svg",
+        "description": "It's important to watch what conflicts arise around state-level bills, said Tim Schultz, president of 1st Amendment Partnership, a religious freedom advocacy organization based in Washington, D.C. The success or failure of these measures can show not just how congressional Republicans or Democrats will respond to related measures, but also which high-profile companies and organizations are paying attention.<br /><br />\"What's happening in states is a sneak preview of the policy battles that will play out at the federal level,\" he said.<br /><br />This year's state-level, religion-related bills — and the battles they created — don't bode well for the future of religious freedom law, according to policy experts. Most 2018 bills were one-sided, meaning that measures offered protections for one group of citizens without worrying about what to do when those protections harm others.<br /><br />\"When you have one-sided deals, there's a high risk that civil rights will be perceived as a game of 'Pong,' with rights given and then taken back or rights for one side followed by different rights for the other,\" said Robin Fretwell Wilson, director of the family law and policy program at the University of Illinois College of Law.<br /><br />Increasingly, religion-related legislation is also partisan, Schultz said. Bills that protect the rights of religious objectors to same-sex marriage or faith-based student organizations receive very little Democratic support, while bills proposing new protections for the LGBT community fail to gain Republican backers.<br /><br />This situation is dangerous for religious freedom, because it makes it seem incompatible with other rights, Schultz added.<br /><br />\"If you believe religious freedom is just for Republicans, it puts religious freedom in a very tenuous place. We're fighting an existential battle every election year,\" he said.<br /><br />However, lopsided and partisan bills seem unavoidable in the current religious freedom landscape, experts said. Same-sex marriage legalization turned the focus of most religious freedom bills to LGBT rights, a subject on which it's much more difficult to build consensus. <br /><br />\"Most of the state legislature religious freedom debates have come to be connected with questions of LGBT rights in some way,\" Schultz said.<br /><br />This connection has not been good for the brand of religious freedom, he added. For many Americans, the phrase is now synonymous with rejecting same-sex marriage.<br /><br />\"There are questions about whether religious freedom is really about a license to discriminate against gays and lesbians. Of course, that's not what I think it is. But that's what many people think,\" Schultz said.<br /><br />Religious freedom advocates in state legislatures know that broad bills protecting people of faith are unpopular. So they've turned their attention to smaller, more palatable issues, like the threat to faith-based adoption agencies, Wilson said.<br /><br />\"We're seeing stand-alone adoption protections partly because it's one of the most sympathetic situations. We want to keep religious people in the marketplace,\" she said.<br /><br />But during their debut year, many bills seeking to protect faith-based adoption agencies that won't serve LGBT couples for religious reasons met the same fate as other religious freedom measures. They failed to earn support from Democrats and were called discriminatory.<br /><br />\"We're seeing the leading edge of the same phenomenon that doomed (broader bills.) We're seeing corporate actors like Google come in and try to weigh in on these issues,\" Wilson said.<br /><br />She added, \"Discrimination is like the word bigot. It sucks all the oxygen out of the room.\"<br /><br />In this legislative climate, many bills are more like a political statement than a starting point for negotiation, Wilson said.<br /><br />\"They sometimes take on an importance to stakeholders that is greater than the actual need. They're a symbolic statement,\" she said.<br /><br />This approach causes additional damage to people's understanding of religious freedom, said Maggie Garrett, legislative director for Americans United for Separation of Church and State. It's beginning to seem impossible to protect conservative religious people and members of the LGBT community at the same time.<br /><br />\"I do think overstepping and making bills one-sided is harmful to religious freedom in general,\" she said.<br /><br />Moving forward, religious freedom advocates in state legislatures and Congress need to acknowledge what's not working and find a way to come together to protect vulnerable Americans, Schultz said.<br /><br />\"The overall vision for religious freedom has to be based on a broad social consensus. You have to take people's sincere views into account,\" he said.<br /><br />Research overview<br /><br />Bills were collected by searching LegiScan, a national legislative tracking service, and following similar research efforts from advocacy organizations like the American Civil Liberties Union. For a bill to be eligible for inclusion, it had to deal with religion's place in the public square and action had to be taken on it in 2018.<br /><br />This research is ongoing. Please contact Kelsey Dallas (kdallas@deseretnews.com) with comments, questions or bills we missed."
+    }],
+    "subcategories": [{
+        "title": "Passed",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-30.svg"
+    }, {
+        "title": "Pending",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-29.svg"
+    }, {
+        "title": "Dead",
+        "image": "https://www.deseretnews.com/project/assets/images/religfreedom-28.svg"
+    }],
+    "bullets": [{
+            "category": "Adoption",
+            "subcategory": "Passed",
+            "state": "Kansas",
+            "bills": ["HB2481"],
+            "links": ["http://www.kslegislature.org/li/b2017_18/measures/documents/hb2481_01_0000.pdf"],
+            "description": "HB2481 will allow a faith-based, child-placing agency to refuse to assist in the placement of a child if doing so would violate the religious beliefs spelled out in its governing documents. "
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Passed",
+            "state": "Oklahoma",
+            "bills": ["SB1140"],
+            "links": ["http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20ENR/SB/SB1140%20ENR.PDF"],
+            "description": "SB1140 will allow a private, child-placing agency to refuse to participate in the placement of a child for foster care or adoption if doing so would violate the agency's religious or moral convictions. "
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Pending",
+            "state": "New Jersey",
+            "bills": ["AB461", "AB463"],
+            "links": ["http://www.njleg.state.nj.us/2018/Bills/A0500/461_I1.PDF ", "http://www.njleg.state.nj.us/2018/Bills/A0500/463_I1.PDF"],
+            "description": "AB461 and AB463 seek to ensure that children in the foster care or adoption system are placed with families who share their faith."
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Dead",
+            "state": "Colorado",
+            "bills": ["SB18-241"],
+            "links": ["http://leg.colorado.gov/sites/default/files/documents/2018A/bills/2018a_241_01.pdf"],
+            "description": "SB18-241 would have allowed child-placing agencies to refuse to participate in an adoption or foster-care placement that violated their religious beliefs. "
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Dead",
+            "state": "Georgia",
+            "bills": ["SB375"],
+            "links": ["http://www.legis.ga.gov/legislation/en-US/Display/20172018/SB/375"],
+            "description": "SB375 would have allowed child-placing agencies with religious objections to same-sex marriage to refuse to provide services to LGBT couples."
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Dead",
+            "state": "Kansas",
+            "bills": ["HB2687", "SB401"],
+            "links": ["http://www.kslegislature.org/li/b2017_18/measures/documents/hb2687_00_0000.pdf", "http://www.kslegislature.org/li/b2017_18/measures/documents/sb401_00_0000.pdf"],
+            "description": "HB2687 and SB401 would have allowed faith-based, child-placing agencies to refuse to work with LGBT couples. This goal was met through another piece of legislation. "
+        },
+        {
+            "category": "Adoption",
+            "subcategory": "Dead",
+            "state": "Oklahoma",
+            "bills": ["HB1507", "HB3486"],
+            "links": ["http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/hB/HB1507%20INT.PDF", "http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/hB/HB3486%20INT.PDF"],
+            "description": "HB1507 and HB3486 would have guaranteed a faith-based, child-placing agency's right to refuse to work with same-sex couples. A different piece of legislation met this goal. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Passed",
+            "state": "Arizona",
+            "bills": ["HB2563"],
+            "links": ["https://apps.azleg.gov/BillStatus/GetDocumentPdf/462378"],
+            "description": "HB2563 will require public college and university leaders to adopt a policy on free expression and sanction those who infringe on someone else's free-speech rights. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Passed",
+            "state": "Georgia",
+            "bills": ["SB339"],
+            "links": ["http://www.legis.ga.gov/Legislation/en-US/display/20172018/SB/339"],
+            "description": "SB339 instructs public college and university leaders to adopt a free-speech policy and publish an annual report outlining violations. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Passed",
+            "state": "Louisiana",
+            "bills": ["SB364"],
+            "links": ["http://www.legis.la.gov/legis/ViewDocument.aspx?d=1098606"],
+            "description": "SB364 will require public college and university leaders to adopt a free-speech policy and publish an annual report on related violations. Additionally, it will prohibit schools from denying benefits to faith-based student groups that are available to other groups. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Passed",
+            "state": "Virginia",
+            "bills": ["HB344"],
+            "links": ["http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB344ER"],
+            "description": "HB344 will require public college and university leaders to adopt and distribute a free-speech policy and publish an annual report outlining violations. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "California",
+            "bills": ["AB2374"],
+            "links": ["https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB2374"],
+            "description": "AB2374 would require public college and university leaders to prepare and publish a statement on free expression. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Idaho",
+            "bills": ["HB422"],
+            "links": ["https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2018/legislation/H0422.pdf"],
+            "description": "HB422 would prevent colleges and universities from imposing time, place or manner restrictions on student speech."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Illinois ",
+            "bills": ["SB1560"],
+            "links": ["http://www.ilga.gov/legislation/fulltext.asp?DocName=&SessionId=91&GA=100&DocTypeId=SB&DocNum=1560&GAID=14&LegID=&SpecSess=&Session="],
+            "description": "SB1560 would ensure that people lawfully present on a college campus and obeying campus rules would be allowed to exercise their free speech rights. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Iowa",
+            "bills": ["SF2344"],
+            "links": ["https://www.legis.iowa.gov/legislation/BillBook?ga=87&ba=SF2344"],
+            "description": "SF2344 would require public college and university leaders to adopt a campus free-speech policy. It would also guarantee a faith-based student group's right to hold group leaders to a chosen religious standard. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Kentucky",
+            "bills": ["SB237"],
+            "links": ["http://www.lrc.ky.gov/recorddocuments/bill/18RS/SB237/bill.pdf"],
+            "description": "SB237 would require public college and university leaders to adopt a free-speech policy. Additionally, it would ensure that religious and political student groups have access to the same campus resources as other student groups. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Minnesota",
+            "bills": ["HF2726", "SF2469"],
+            "links": ["https://www.revisor.mn.gov/bills/text.php?number=HF2726&version=latest&session=ls90&session_year=2018&session_number=0 ", "https://www.revisor.mn.gov/bills/text.php?number=SF2469&version=latest&session=ls90&session_year=2018&session_number=0"],
+            "description": "HF2726 and SF2469 would require public college and university leaders to adopt a free-speech and student-on-student harassment policy. They would give students who felt unfairly silenced a cause for legal action."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Minnesota",
+            "bills": ["HF3394", "SF2451"],
+            "links": ["https://www.revisor.mn.gov/bills/text.php?number=HF3394&version=latest&session=ls90&session_year=2018&session_number=0 ", "https://www.revisor.mn.gov/bills/text.php?number=SF2451&version=latest&session=ls90&session_year=2018&session_number=0"],
+            "description": "HF3394 and SF2451 would require public college and university leaders to adopt a free-speech policy and publish an annual report of related violations."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Missouri",
+            "bills": ["HB2423", "HB2284"],
+            "links": ["https://house.mo.gov/billtracking/bills181/hlrbillspdf/5874H.01I.pdf", "https://house.mo.gov/billtracking/bills181/hlrbillspdf/6065H.02C.pdf"],
+            "description": "HB2423 and HB2284 both seek to require public college and university leaders to adopt a policy on free expression. They would also ensure that all student organizations are treated equally. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "Missouri",
+            "bills": ["HB2074"],
+            "links": ["https://house.mo.gov/billtracking/bills181/hlrbillspdf/5030H.01I.pdf"],
+            "description": "HB2074 would prohibit public colleges and universities from denying benefits to a religious student group that are offered to other student groups. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "New York",
+            "bills": ["SB2493"],
+            "links": ["http://assembly.state.ny.us/leg/?default_fld=&bn=S02493&term=2017&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y"],
+            "description": "SB2493 would prevent student groups that directly or indirectly discriminate against members of the campus community or spread hate speech from receiving university funds. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "New York",
+            "bills": ["SB6126", "AB4066"],
+            "links": ["http://assembly.state.ny.us/leg/?default_fld=&bn=S06126&term=2017&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y", "http://assembly.state.ny.us/leg/?default_fld=&bn=A04066&term=2017&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y"],
+            "description": "SB6126 and AB4066 affirm the right of people lawfully on campus to speak freely, lead protests, circulate petitions or distribute literature. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "South Carolina",
+            "bills": ["HB4440 ", "SB1085"],
+            "links": ["http://www.scstatehouse.gov/sess122_2017-2018/prever/4440_20171213.htm", "http://www.scstatehouse.gov/sess122_2017-2018/prever/1085_20180306.htm"],
+            "description": "HB4440 and SB1085 would require public college and university leaders to adopt a free speech policy and publish an annual report of related violations. Additionally, SB1085 would instruct school officials to outline sanctions awaiting a student who interferes with the speech rights of another student. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB4203", "SB111"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb4203%20intr.pdf", "http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/SB111%20INTR.pdf"],
+            "description": "HB4203 and SB111 would require public school and university leaders to develop a campus policy on free expression and publish an annual report on related violations. Additionally, SB111 would ensure religious student groups receive the same perks as other groups. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB2335"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb2335%20intr.pdf"],
+            "description": "HB2335 would prevent public college and university leaders from basing faculty hiring and firing decisions, as well as student grades, on religious or political beliefs. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "California",
+            "bills": ["SB1388", "AB2081"],
+            "links": ["https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB1388", "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB2081"],
+            "description": "SB1388 and AB2081 would have required public college and university leaders to establish a campus free expression policy. AB2081 would have made schools without such a policy ineligible for most forms of state funding. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Florida",
+            "bills": ["SB1234"],
+            "links": ["http://www.flsenate.gov/Session/Bill/2018/1234/BillText/c1/PDF"],
+            "description": "SB1234 would have prevented public college and university leaders from interfering with free speech on campus, enabling students who felt silenced to file a claim against their school. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Indiana",
+            "bills": ["SB302"],
+            "links": ["http://iga.in.gov/legislative/2018/bills/senate/302/#document-fc5e5204"],
+            "description": "SB302 would have required public college and university leaders to adopt a campus policy protecting free speech."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Kansas",
+            "bills": ["SB340"],
+            "links": ["http://kslegislature.org/li/b2017_18/measures/documents/sb340_02_0000.pdf"],
+            "description": "SB340 would have required public college and university leaders to adopt a free-speech policy. Additionally, it would have prevented campus leaders from uninviting speakers invited by students or faculty members. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Nebraska",
+            "bills": ["LB718"],
+            "links": ["https://nebraskalegislature.gov/FloorDocs/105/PDF/Intro/LB718.pdf"],
+            "description": "LB718 would have required public college and university leaders to adopt a free-speech policy and publish an annual review of speech-related incidents on campus."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "New Hampshire",
+            "bills": ["HB477"],
+            "links": ["http://gencourt.state.nh.us/bill_status/billText.aspx?id=162&txtFormat=html&sy=2018"],
+            "description": "HB477 would have prevented public colleges and universities from interfering with students' right to free speech. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Oklahoma",
+            "bills": ["SB1200", "SB1202", "HB3586"],
+            "links": ["http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SB/SB1200%20INT.PDF", "http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20FLR/SFLR/SB1202%20SFLR.PDF", "http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20FLR/HFLR/HB3586%20HFLR.PDF"],
+            "description": "SB1200, SB1202 and HB3586 sought to protect the free speech rights of people lawfully present on public college or university campuses and require school leaders to adopt a free expression policy. Additionally, HB3586 would have protected religious student groups from being punished for their beliefs."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "South Dakota",
+            "bills": ["SB198", "HB1073"],
+            "links": ["http://sdlegislature.gov/docs/legsession/2018/Bills/SB198P.pdf", "http://sdlegislature.gov/docs/legsession/2018/Bills/HB1073P.pdf"],
+            "description": "SB198 and HB1073 would have protected the right of anyone lawfully on campus to freely express his or her ideas. They would have required public college or university leaders to adopt a free speech policy and publish an annual report of related violations."
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Utah",
+            "bills": ["HB398"],
+            "links": ["https://le.utah.gov/~2018/bills/hbillint/HB0398S01.pdf"],
+            "description": "HB398 would have prohibited a college or university from punishing speech acts that do not include discriminatory harassment. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Virginia",
+            "bills": ["HB1274"],
+            "links": ["http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB1274+hil"],
+            "description": "HB1274 would have affirmed the right of anyone lawfully on campus to freely express his or her opinions. Additionally, it would have made it illegal to treat a student organization differently than other campus groups because of an act of lawful expression or faith-based membership policies. "
+        },
+        {
+            "category": "On Campus",
+            "subcategory": "Dead",
+            "state": "Wyoming",
+            "bills": ["HB137"],
+            "links": ["http://www.wyoleg.gov/2018/Introduced/HB0137.pdf"],
+            "description": "HB137 would have required public college and university leaders to adopt a campus policy on free speech and publish an annual report on related violations."
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Pending",
+            "state": "Kentucky",
+            "bills": ["HB372"],
+            "links": ["http://www.lrc.ky.gov/recorddocuments/bill/18RS/HB372/bill.pdf"],
+            "description": "HB372 would protect from state interference religious organizations that refuse to participate in a same-sex wedding, hire an LGBT person or house an LGBT person. "
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Pending",
+            "state": "Massachusetts",
+            "bills": ["HB767"],
+            "links": ["https://malegislature.gov/Bills/190/H767"],
+            "description": "HB767 would prevent corporations from using an owner's religious beliefs or moral convictions to circumvent federal or state nondiscrimination laws. "
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Pending",
+            "state": "Missouri",
+            "bills": ["SB1022"],
+            "links": ["http://www.senate.mo.gov/18info/pdf-bill/intro/SB1022.pdf"],
+            "description": "SB1022 would prevent the state from penalizing residents, including members of the clergy and business owners, who refuse to participate in or provide goods or services for a same-sex wedding for religious reasons. "
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Pending",
+            "state": "Washington",
+            "bills": ["HB1178"],
+            "links": ["http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/House%20Bills/1178.pdf"],
+            "description": "HB1178 would protect corporations, state employees, hospitals and other residents who believe marriage is properly between one man and one woman from state interference. "
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Dead",
+            "state": "Colorado",
+            "bills": ["HB18-1206"],
+            "links": ["https://leg.colorado.gov/sites/default/files/documents/2018A/bills/2018a_1206_01.pdf"],
+            "description": "HB18-1206 would have protected religious businesses, organizations and individuals from state interference related to a faith-based objection to same-sex marriage."
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Dead",
+            "state": "Florida",
+            "bills": ["HB871", "SB1290"],
+            "links": ["http://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_h0871__.docx&DocumentType=Bill&BillNumber=0871&Session=2018", "http://www.myfloridahouse.gov/Sections/Documents/loaddoc.aspx?FileName=_s1290__.DOCX&DocumentType=Bill&BillNumber=1290&Session=2018"],
+            "description": "HB871 and SB1290 would have prevented the state of Florida from sanctioning a business owner for actions related to his or her free expression, free exercise or other First Amendment rights. "
+        },
+        {
+            "category": "Service Refusals",
+            "subcategory": "Dead",
+            "state": "Oklahoma",
+            "bills": ["SB1250"],
+            "links": ["http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20INT/SB/SB1250%20INT.PDF"],
+            "description": "SB1250 would have prevented the state from penalizing residents who object to same-sex marriage for religious reasons."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Passed",
+            "state": "New Hampshire",
+            "bills": ["HB1319"],
+            "links": ["https://www.gencourt.state.nh.us/bill_status/billText.aspx?sy=2018&id=1022&txtFormat=pdf&v=current"],
+            "description": "HB1319 prevents discrimination based on gender identity in housing, hiring and public accommodation."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Alaska",
+            "bills": ["HB184"],
+            "links": ["http://www.akleg.gov/basis/Bill/Text/30?Hsid=HB0184A"],
+            "description": "HB184 would prohibit discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation, but provide exemptions for religious organizations.  "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Arizona",
+            "bills": ["HB2437", "HB2586", "HB2462", "SB1314"],
+            "links": ["https://apps.azleg.gov/BillStatus/GetDocumentPdf/455482", "https://apps.azleg.gov/BillStatus/GetDocumentPdf/456962", "https://apps.azleg.gov/BillStatus/GetDocumentPdf/455801", "https://apps.azleg.gov/BillStatus/GetDocumentPdf/455826"],
+            "description": "HB2437, HB2586, HB2462 and SB1314 all seek to prevent discrimination based on sexual orientation or gender identity. They would provide exemptions for religious employers. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Georgia",
+            "bills": ["HB987"],
+            "links": ["http://www.legis.ga.gov/Legislation/20172018/174582.pdf"],
+            "description": "HB987 would prohibit discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation, but provide exemptions for religious organizations. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Hawaii",
+            "bills": ["HB2139", "SB2353"],
+            "links": ["https://www.capitol.hawaii.gov/session2018/bills/HB2139_HD1_.pdf", "https://www.capitol.hawaii.gov/session2018/bills/SB2353_SD1_.pdf"],
+            "description": "HB2139 and SB2353 would prohibit discrimination based on sexual orientation or gender identity in the context of any state-funded program. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Idaho",
+            "bills": ["HB408"],
+            "links": ["https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2018/legislation/H0408.pdf"],
+            "description": "HB408 would prohibit discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Kentucky",
+            "bills": ["SB190", "HB195"],
+            "links": ["http://www.lrc.ky.gov/record/18RS/SB190.htm", "http://www.lrc.ky.gov/record/18RS/HB195.htm"],
+            "description": "SB190 and HB195 would prohibit discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Louisiana",
+            "bills": ["SB219"],
+            "links": ["http://www.legis.la.gov/legis/ViewDocument.aspx?d=1075624"],
+            "description": "SB219 would amend hiring laws to ensure that job candidates are not discriminated against on the basis of their sexual orientation or gender identity. Religious employers would be exempt. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "Missouri",
+            "bills": ["HB1360", "HB2100", "HB1782", "SB753"],
+            "links": ["https://house.mo.gov/billtracking/bills181/hlrbillspdf/4610H.01I.pdf", "https://house.mo.gov/billtracking/bills181/hlrbillspdf/5856H.01I.pdf", "https://house.mo.gov/billtracking/bills181/hlrbillspdf/5338H.01I.pdf", "http://www.senate.mo.gov/18info/pdf-bill/intro/SB753.pdf"],
+            "description": "HB1360, HB2100, HB1782 and SB753 would prohibit discrimination based on sexual orientation and gender identity in housing, hiring and public accommodation. They would exempt religious employers. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "New York",
+            "bills": ["AB3358"],
+            "links": ["http://assembly.state.ny.us/leg/?default_fld=&leg_video=&bn=A03358&term=2017&Summary=Y&Actions=Y&Text=Y"],
+            "description": "AB3358 would prohibit discrimination based on gender identity or expression in housing, hiring, education and public accommodation. Religious schools would still be allowed to restrict admission to members of their own faith."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB4319", "SB471"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb4319%20intr.pdf", "http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/SB471%20INTR.pdf"],
+            "description": "HB4319 and SB471 would prohibit discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB2670", "HB2623", "SB99"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb2670%20intr.pdf", "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb2623%20intr.htm&yr=2018&sesstype=RS&i=2623", "http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/SB99%20INTR.pdf"],
+            "description": "HB2670, HB2623 and SB99 would prohibit discrimination based on sexual orientation in housing, hiring and public accommodation. It would provide exemptions for religious corporations, associations and schools, except when these organizations provide a state-funded service. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Florida",
+            "bills": ["SB66", "HB347"],
+            "links": ["https://www.flsenate.gov/Session/Bill/2018/66/BillText/Filed/PDF", "https://www.flsenate.gov/Session/Bill/2018/347/BillText/Filed/PDF"],
+            "description": "SB66 and HB347 would have prevented discrimination based on sexual orientation or gender identity in housing, hiring and public accomodation and also created exemptions for religious groups. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Indiana",
+            "bills": ["SB285"],
+            "links": ["https://iga.in.gov/legislative/2018/bills/senate/285#document-95353a41"],
+            "description": "SB285 would have prohibited discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation, but it would have exempted religious employers. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Mississippi",
+            "bills": ["HB545", "SB2933"],
+            "links": ["http://billstatus.ls.state.ms.us/documents/2018/pdf/HB/0500-0599/HB0545IN.pdf", "http://billstatus.ls.state.ms.us/documents/2018/pdf/SB/2900-2999/SB2933IN.pdf"],
+            "description": "HB545 and SB2933 would have created the Mississippi Civil Rights Act, prohibiting discrimination based on religion, national origin, immigrant status, sexual orientation, gender identity, disability or familial status in the context of hiring, housing and public accommodation. They would have exempted religious employers. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Mississippi",
+            "bills": ["HB597", "SB2829"],
+            "links": ["http://billstatus.ls.state.ms.us/documents/2018/pdf/HB/0500-0599/HB0597IN.pdf", "http://billstatus.ls.state.ms.us/documents/2018/pdf/SB/2800-2899/SB2829IN.pdf"],
+            "description": "HB597 and SB2829 would have prohibited discrimination based on sexual orientation or gender identity in the realm of housing."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Nebraska",
+            "bills": ["LB173"],
+            "links": ["https://nebraskalegislature.gov/FloorDocs/105/PDF/Intro/LB173.pdf"],
+            "description": "LB173 would have prohibited discrimination based on sexual orientation or gender identity in housing, hiring and public accommodation."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "New York",
+            "bills": ["SB7010"],
+            "links": ["http://assembly.state.ny.us/leg/?default_fld=&bn=S07010&term=2017&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y"],
+            "description": "SB7010 would have prohibited discrimination based on gender identity or expression in housing, hiring, education and public accommodation. Religious schools would have still been allowed to restrict admission to members of their own faith."
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Virginia",
+            "bills": ["HB401"],
+            "links": ["https://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB401+pdf"],
+            "description": "HB401 would have prohibited discrimination based on sexual orientation or gender identity in employment and housing. It would have allowed religious organizations to sell or rent their properties only to members of their faith groups. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Virginia",
+            "bills": ["HB971", "HB1547", "SB423"],
+            "links": ["https://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB971+pdf", "https://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB1547+pdf", "https://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+SB423+pdf"],
+            "description": "HB971, HB1547 and SB423 would have prohibited discrimination based on gender identity in housing. HB1547 and SB423 would have also prohibited sexual orientation discrimination. "
+        },
+        {
+            "category": "LGBT Rights",
+            "subcategory": "Dead",
+            "state": "Wisconsin",
+            "bills": ["SB867"],
+            "links": ["http://docs.legis.wisconsin.gov/2017/related/proposals/sb867.pdf"],
+            "description": "SB867 would have prohibited discrimination based on gender identity in employment. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Passed",
+            "state": "Connecticut",
+            "bills": ["HB5210"],
+            "links": ["https://www.cga.ct.gov/2018/ACT/pa/2018PA-00010-R00HB-05210-PA.htm"],
+            "description": "HB5210 mandates coverage of contraception in employer health plans, but exempts religious employers. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Alaska",
+            "bills": ["HB25 "],
+            "links": ["http://www.akleg.gov/basis/Bill/Text/30?Hsid=HB0025D"],
+            "description": "HB25 would require employers to offer health plans that cover contraception, except religious employers with faith-based objections to birth control. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Arizona",
+            "bills": ["HB2227", "SB1341"],
+            "links": ["https://apps.azleg.gov/BillStatus/GetDocumentPdf/455304", "https://apps.azleg.gov/BillStatus/GetDocumentPdf/455854"],
+            "description": "HB2227 and SB1341 would require religious employers to be clear with employees about whether contraception is covered by the company health plan. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Arizona",
+            "bills": ["HB2103"],
+            "links": ["https://apps.azleg.gov/BillStatus/GetDocumentPdf/454705"],
+            "description": "HB2103 would require health care entities, including hospitals and doctors, to clearly state which procedures they won't perform due to their religious beliefs. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Delaware",
+            "bills": ["SB151"],
+            "links": ["https://legis.delaware.gov/BillDetail/26306"],
+            "description": "SB151 would require employers, except religious employers with faith-based objections to birth control, to cover contraception in insurance plans. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Hawaii",
+            "bills": ["SB2341", "HB2127"],
+            "links": ["https://www.capitol.hawaii.gov/session2018/bills/SB2341_.HTM", "https://www.capitol.hawaii.gov/session2018/bills/HB2127_.HTM"],
+            "description": "SB2341 and HB2127 would mandate coverage of contraception in health plans, but provide an exemption for religious employers. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Louisiana",
+            "bills": ["HB689"],
+            "links": ["http://www.legis.la.gov/legis/ViewDocument.aspx?d=1073286"],
+            "description": "HB689 would mandate coverage of fertility preservation for individuals with cancer in health plans, unless the insurance plan is offered by a religious employer that objects to some fertility treatments. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Michigan",
+            "bills": ["SB835"],
+            "links": ["http://www.legislature.mi.gov/documents/2017-2018/billintroduced/Senate/pdf/2018-SIB-0835.pdf"],
+            "description": "SB835 would mandate contraception coverage in health plans, unless the plan is offered by a religious employer with faith-based objections to birth control. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Minnesota",
+            "bills": ["HF3453", "SF3101"],
+            "links": ["https://www.revisor.mn.gov/bills/text.php?number=HF3453&version=latest&session=ls90&session_year=2018&session_number=0 ", "https://www.revisor.mn.gov/bills/text.php?number=SF3101&version=latest&session=ls90&session_year=2018&session_number=0"],
+            "description": "HF3453 and SF3101 would mandate contraception coverage in most health plans. Religious employers would be exempt and nonprofits or closely held corporations with religious ties could request an accommodation."
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "New Jersey",
+            "bills": ["AB1734", "SB708"],
+            "links": ["http://www.njleg.state.nj.us/2018/Bills/A2000/1734_I1.PDF ", "http://www.njleg.state.nj.us/2018/Bills/S1000/708_I1.PDF"],
+            "description": "AB1734 and SB708 would mandate coverage of a variety of fertility-related treatments and medications, including contraception and abortion. Religious employers would be exempt if they notified employees of their faith-based objections."
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Tennessee",
+            "bills": ["SB2185"],
+            "links": ["http://www.capitol.tn.gov/Bills/110/Bill/SB2185.pdf"],
+            "description": "SB2185 would mandate contraception coverage in employer health plans, except plans offered by religious employers who have properly notified employees. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Virginia",
+            "bills": ["SB907"],
+            "links": ["http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+SB907S1"],
+            "description": "SB907 would mandate contraception coverage in employer health plans. It would exempt employers with religious objections to birth control, so long as employees were properly notified. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Pending",
+            "state": "Washington",
+            "bills": ["SB6102", "HB2908"],
+            "links": ["http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Bills/6102-S.pdf", "http://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/House%20Bills/2908.pdf"],
+            "description": "SB6102 and HB2908 would mandate contraception coverage in employer health plans, unless a plan is offered by a religious employer with moral objections to birth control. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Colorado",
+            "bills": ["HB18-1438"],
+            "links": ["http://leg.colorado.gov/sites/default/files/documents/2018A/bills/2018a_1438_01.pdf"],
+            "description": "HB18-1438 would have mandated coverage of contraception and legal abortion procedures in employer health plans, except for religious employers."
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Florida",
+            "bills": ["HB1273"],
+            "links": ["https://www.flsenate.gov/Session/Bill/2018/1273/BillText/Filed/PDF"],
+            "description": "HB1273 would have mandated coverage of contraception in employer health plans, but allowed exemptions for religious employers. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Indiana",
+            "bills": ["SB151"],
+            "links": ["http://iga.in.gov/legislative/2018/bills/senate/151/#document-9e9c745e"],
+            "description": "SB151 would have required contraception coverage in employer health plans. Churches with religious objections to birth control would have been exempt. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Kansas",
+            "bills": ["HB2679", "SB417"],
+            "links": ["http://kslegislature.org/li/b2017_18/measures/documents/hb2679_00_0000.pdf", "http://kslegislature.org/li/b2017_18/measures/documents/sb417_00_0000.pdf"],
+            "description": "HB2679 and SB417 would have required coverage of contraception in employer health plans, unless the employer was a religious organization that objects to birth control. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Mississippi",
+            "bills": ["HB874"],
+            "links": ["http://billstatus.ls.state.ms.us/documents/2018/html/HB/0800-0899/HB0874IN.htm"],
+            "description": "HB874 would have required contraception coverage in all health plans, except plans offered by church employers. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "New Hampshire",
+            "bills": ["HB1787"],
+            "links": ["http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2018&id=1235&txtFormat=html"],
+            "description": "HB1787 would have prohibited discrimination against health care providers who did not want to perform certain medical procedures for religious reasons."
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Tennessee",
+            "bills": ["HB2627"],
+            "links": ["http://www.capitol.tn.gov/Bills/110/Bill/HB2627.pdf"],
+            "description": "HB2627 would have required coverage of contraception in employer health plans, except plans offered by religious employers who object to birth control. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Virginia",
+            "bills": ["HB21"],
+            "links": ["http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB21"],
+            "description": "HB21 would have mandated contraception coverage in employer health plans. It would have exempted employers with religious objections to birth control, so long as employees were properly notified. "
+        },
+        {
+            "category": "Health Care",
+            "subcategory": "Dead",
+            "state": "Virginia",
+            "bills": ["HB631"],
+            "links": ["http://lis.virginia.gov/cgi-bin/legp604.exe?181+ful+HB631"],
+            "description": "HB631 would have required employers who do not cover contraception for religious reasons to clearly notify current and prospective employees of this policy."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Georgia",
+            "bills": ["HB922", "SB361"],
+            "links": ["http://www.legis.ga.gov/Legislation/20172018/173300.pdf", "http://www.legis.ga.gov/Legislation/20172018/171776.pdf"],
+            "description": "HB922 and SB361 would protect the right of religious expression for students and faculty members in public elementary and secondary schools. They would also allow for religious student groups and activities."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Iowa",
+            "bills": ["SF2154", "SF2338", "HF2209"],
+            "links": ["https://www.legis.iowa.gov/legislation/BillBook?ga=%24selectedGa.generalAssemblyID&ba=SF2154", "https://www.legis.iowa.gov/legislation/BillBook?ga=%24selectedGa.generalAssemblyID&ba=SF2338", "https://www.legis.iowa.gov/legislation/BillBook?ga=%24selectedGa.generalAssemblyID&ba=HF2209"],
+            "description": "SF2154, SF2338 and HF2209 mimic the federal Religious Freedom Restoration Act. They would provide a legal defense for individuals or organizations that feel the state has burdened their free exercise of religion. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Iowa",
+            "bills": ["HF2164"],
+            "links": ["https://www.legis.iowa.gov/legislation/BillBook?ga=87&ba=HF2164"],
+            "description": "HF2164 would guarantee a religious institution's right to impose religion, sexual orientation or gender identity-related restrictions on property use."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Louisiana",
+            "bills": ["SB309"],
+            "links": ["http://www.legis.la.gov/legis/ViewDocument.aspx?d=1072581"],
+            "description": "SB309 would prevent clergy members, churches or religious organizations from being forced to participate in a same-sex marriage ceremony. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Missouri",
+            "bills": ["HB1763"],
+            "links": ["https://house.mo.gov/billtracking/bills181/hlrbillspdf/4947H.01I.pdf"],
+            "description": "HB1763 would allow a person authorized to solemnize a marriage to refuse to solemnize a same-sex marriage."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "New Jersey",
+            "bills": ["AB2864"],
+            "links": ["http://www.njleg.state.nj.us/2018/Bills/A3000/2864_I1.PDF"],
+            "description": "AB2864 would ensure that no religious society, institution or organization, or member of the clergy, is required to participate in a same-sex wedding ceremony."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "New York",
+            "bills": ["AB5353"],
+            "links": ["http://assembly.state.ny.us/leg/?default_fld=&bn=A05353&term=2017&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y"],
+            "description": "AB5353 would allow for voluntary religious expression in assignments and classroom discussions in public elementary and secondary schools. It would also protect faith-based student clubs."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Ohio",
+            "bills": ["HB36"],
+            "links": ["https://www.legislature.ohio.gov/legislation/legislation-status?id=GA132-HB-36"],
+            "description": "HB36 would prevent clergy members, churches or religious organizations from being forced to participate in a same-sex marriage ceremony. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "Oklahoma",
+            "bills": ["SB450"],
+            "links": ["http://webserver1.lsb.state.ok.us/cf_pdf/2017-18%20ENGR/SB/SB450%20ENGR.PDF"],
+            "description": "SB450 would protect religious expression and faith-based student groups in public elementary and secondary schools."
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "South Carolina",
+            "bills": ["HB4384"],
+            "links": ["http://www.scstatehouse.gov/sess122_2017-2018/prever/4384_20171109.htm"],
+            "description": "HB4384 would protect religious activities and expression in public elementary and secondary schools. It would also ensure that faith-based student groups were not treated differently than other student groups. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB3097", "SB93"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb3097%20intr.pdf", "http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/SB93%20INTR.pdf"],
+            "description": "HB3097 and SB93 would ensure there is a compelling state interest behind any policy that burdens a resident's religious exercise rights. The bills are similar to the federal Religious Freedom Restoration Act, but don't use that title. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Pending",
+            "state": "West Virginia",
+            "bills": ["HB4010"],
+            "links": ["http://www.wvlegislature.gov/Bill_Text_HTML/2018_SESSIONS/RS/bills/hb4010%20intr.pdf"],
+            "description": "HB4010 would ensure that no religious representative or house of worship could be forced to participate in a marriage ceremony that violates his or her sincerely held beliefs. "
+        },
+        {
+            "category": "Misc.",
+            "subcategory": "Dead",
+            "state": "Mississippi",
+            "bills": ["HB618", "SB2828"],
+            "links": ["http://billstatus.ls.state.ms.us/documents/2018/pdf/HB/0600-0699/HB0618IN.pdf", "http://billstatus.ls.state.ms.us/documents/2018/html/SB/2800-2899/SB2828IN.htm"],
+            "description": "HB618 and SB2828 would have repealed the Protecting Freedom of Conscience from Government Discrimination Act. Additionally, HB618 would have repealed the Mississippi Religious Freedom Restoration Act. "
+        }
+    ]
+}

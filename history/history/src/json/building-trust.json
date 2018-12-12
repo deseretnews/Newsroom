@@ -1,0 +1,31 @@
+[
+    {
+        "banner": "Business",
+        "bullets": [
+            "Safeguard privacy",
+            "Drive economic prosperity",
+            "Provide jobs and training"
+        ]
+    }, {
+        "banner": "Government",
+        "bullets": [
+            "Drive economic prosperity",
+            "Investigate corruption",
+            "Support the poor"
+        ]
+    }, {
+        "banner": "Media",
+        "bullets": [
+            "Guard information quality",
+            "Educate, inform and entertain",
+            "Safeguard privacy"
+        ]
+    }, {
+        "banner": "NGOs",
+        "bullets": [
+            "Support the poor",
+            "Call out abuses of power",
+            "Create a sense of community"
+        ]
+    }
+]

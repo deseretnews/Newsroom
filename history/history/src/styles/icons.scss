@@ -1,0 +1,55 @@
+div.interactive[data-type="icons"] {
+
+    span.back {
+        cursor: pointer;
+        display: block;
+        font-weight: bold;
+        margin-left: 35px;
+    }
+
+    span.back::before {
+        content: '⬅';
+        font-size: 1.25em;
+        display: block;
+        margin-bottom: -32px;
+        margin-left: -34px;
+    }
+
+    span.back:hover {
+        opacity: 0.5;
+    }
+
+    span {
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    img.icon {
+        width: 40%;
+        margin: 5px 15px 5px 0px;
+        cursor: pointer;
+    }
+
+    img.icon:hover {
+        opacity: 0.5;
+    }
+
+    img.page {
+        width: 100%;
+        cursor: pointer;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    div.interactive[data-type="icons"] {
+        display: block;
+        float: none;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="icons"] {
+        height: 850px;
+    }
+}

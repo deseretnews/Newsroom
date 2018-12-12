@@ -1,0 +1,26 @@
+div.interactive[data-type="textBox"] {
+    box-sizing: border-box;
+    padding: 15px 15px 0px 15px;
+    color: #000;
+    img {
+        float: left;
+        width: 65px;
+    }
+    h2 {
+        display: inline-block;
+        width: 70%;
+        font-size: 1.5em;
+        margin-left: 10px;
+        text-transform: uppercase;
+        margin-bottom: 25px;
+    }
+    span {
+        font-weight: 100;
+    }
+    b,
+    span {
+        font-size: 0.85em;
+        line-height: 0em;
+    }
+}
+@media only screen and (max-device-width: 480px) {div.interactive[data-type="textBox"] {}}

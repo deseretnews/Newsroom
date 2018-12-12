@@ -1,0 +1,214 @@
+$lightgrey: #dfe0e1;
+$medgrey: #b4b5b6;
+$darkgrey: #3b3c3d;
+$grey: #6c6d6e;
+$orange: #c26554;
+$darkorange: #b04a37;
+$darkblue: #506a7e;
+$lightblue: #6e94b2;
+
+
+div.interactive[data-type="quizlet"] {
+    background-color: $lightgrey;
+    color: $darkgrey;
+    padding: 15px 10px;
+
+    /* question */
+
+    h1.question-title {
+        text-align: center;
+        font-size: 1.4em;
+        text-transform: capitalize;
+        line-height: 1em;
+    }
+
+    hr.question-border,
+    hr.question-border-small {
+        border: none;
+        background-color: $darkgrey;
+        height: 2px;
+        margin-top: -5px;
+    }
+
+    hr.question-border-small {
+        width: 75%;
+    }
+
+    h1.question-sub {
+        font-size: 1em;
+        color: $grey;
+        border: solid 2px $orange;
+        width: 70%;
+        line-height: 1em;
+        padding: 15px 10px;
+        text-align: center;
+        margin: 15px auto;
+    }
+
+    h1.question-submit {
+        background-color: $orange;
+        color: #FFF;
+        text-align: center;
+        padding: 5px 0px;
+        width: 70%;
+        font-size: 1.25em;
+        text-transform: uppercase;
+        border-radius: 10px;
+        margin: 0px auto 10px auto;
+        cursor: pointer;
+        filter: drop-shadow(0px 5px 0px $darkorange);
+    }
+
+    h1.question-submit:hover {
+        opacity: 0.5;
+    }
+
+    div.spacer {
+        border-left: solid $darkgrey 2px;
+        height: 25px;
+        margin-left: 38px;
+        margin-top: -10px;
+        margin-bottom: -14px;
+    }
+
+    div.question-wrapper {
+        margin: 15px 0px;
+        cursor: pointer;
+
+        div.question-bubble {
+            border: solid 2px $orange;
+            width: 15px;
+            height: 15px;
+            border-radius: 100%;
+            margin-bottom: -4px;
+            margin-left: 30px;
+            display: inline-block;
+        }
+
+        div.question-bubble:hover,
+        div.question-bubble.selected {
+            background-color: $orange;
+            border-color: $darkorange;
+        }
+
+        span.question-response {
+            margin-left: 30px;
+        }
+    }
+
+    /* answer */
+    h1.answer-header {
+        border: solid 2px $orange;
+        color: $grey;
+        font-size: 1em;
+        line-height: 1.25em;
+        padding: 15px;
+        text-align: center;
+
+        span {
+            color: $darkgrey;
+        }
+    }
+
+    h1.answer-btn {
+        font-size: 1em;
+        text-transform: uppercase;
+        text-align: center;
+        background-color: $orange;
+        font-weight: 100;
+        color: $lightgrey;
+        cursor: pointer;
+        margin: 15px -10px 0px -10px;
+
+        span {
+            font-size: 0.75em;
+        }
+    }
+
+    h1.answer-btn:hover {
+        opacity: 0.5;
+    }
+
+    h1.answer-breakdown {
+        font-size: 1em;
+        line-height: 1em;
+        text-align: center;
+
+        span {
+            font-size: 0.65em;
+            line-height: 1em;
+            margin-top: 5px;
+            display: block;
+            font-weight: 500;
+        }
+    }
+
+    h1.answer-percent {
+        color: $orange;
+        font-size: 2.5em;
+        text-align: center;
+
+        span {
+            color: $darkgrey;
+            font-size: .25em;
+        }
+    }
+
+    div.answer-categories {
+        border: solid $darkgrey 2px;
+        display: flex;
+        flex-direction: column;
+
+        h1.answer-category-title {
+            background-color: $medgrey;
+            font-size: .75em;
+            text-align: center;
+            margin: 0px;
+            padding: 0px;
+            flex-grow: 2;
+            text-transform: uppercase;
+        }
+
+        div.answer-sub-wrapper {
+            display: flex;
+
+            h1:not(:last-child) {
+                border-right: solid thin $medgrey;
+            }
+
+            h1 {
+                text-align: center;
+                font-size: .65em;
+                text-transform: capitalize;
+                flex-grow: 1;
+                margin: 0px;
+
+                span {
+                    display: block;
+                    color: $darkblue;
+                    font-size: 2em;
+                    margin-bottom: 23px;
+                    line-height: 0em;
+                }
+            }
+        }
+    }
+
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="quizlet"] {
+        width: 94%;
+    }
+
+    div.answer-categories {
+        div.answer-sub-wrapper {
+            h1 {
+                span#percent {
+                    margin-bottom: 5px;
+                    line-height: 1em;
+                }
+            }
+        }
+    }
+}

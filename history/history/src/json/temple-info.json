@@ -1,0 +1,33 @@
+[{
+    "button": "Operating temples",
+    "images": {
+        "top": "https://www.deseretnews.com/project/assets/images/cn-white-temple.svg",
+        "bottom": "https://www.deseretnews.com/project/assets/images/cn-159.svg"
+    },
+    "color": "#929295",
+    "text": "Temples in operation"
+}, {
+    "button": "Temples being renovated",
+    "images": {
+        "top": "https://www.deseretnews.com/project/assets/images/cn-green-temple.svg",
+        "bottom": "https://www.deseretnews.com/project/assets/images/cn-11.svg"
+    },
+    "color": "#ADC88F",
+    "text": "Temples under renovation or announced for renovation"
+}, {
+    "button": "Temples under construction",
+    "images": {
+        "top": "https://www.deseretnews.com/project/assets/images/cn-temple-outline.svg",
+        "bottom": "https://www.deseretnews.com/project/assets/images/cn-10.svg"
+    },
+    "color": "#D67B79",
+    "text": "Temples under construction"
+}, {
+    "button": "Temples announced",
+    "images": {
+        "top": "https://www.deseretnews.com/project/assets/images/cn-temple-shadow.svg",
+        "bottom": "https://www.deseretnews.com/project/assets/images/cn-20.svg"
+    },
+    "color": "#81A6BA",
+    "text": "Temples announced"
+}]

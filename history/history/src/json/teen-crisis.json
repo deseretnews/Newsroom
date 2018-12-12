@@ -1,0 +1,29 @@
+[{
+        "image": "https://www.deseretnews.com/project/assets/images/button_02.png",
+        "hover": "https://www.deseretnews.com/project/assets/images/hover-button_02.png",
+        "text": "Recent surge",
+        "header": "Nine out of 10 health care professionals report a teen anxiety surge",
+        "html": "A 2017 WebMD survey found that 86 percent of more than 500 pediatricians, psychologists and psychiatrists saw an increase in anxiety issues among high-schoolers and recent high school graduates."
+    },
+    {
+        "image": "https://www.deseretnews.com/project/assets/images/button_03.png",
+        "hover": "https://www.deseretnews.com/project/assets/images/hover-button_03.png",
+        "text": "Overwhelmed",
+        "header": "Three in five college students have recently felt overwhelmed",
+        "html": "More than 60 percent of college students surveyed last fall by the American College Health Association said they experienced overwhelming anxiety within the past year, up from fewer than half of students in Fall 2008. The number of students who had been treated for anxiety within the past 12 months doubled over the same period, from one in 10 to one in five."
+    },
+    {
+        "image": "https://www.deseretnews.com/project/assets/images/button_04.png",
+        "hover": "https://www.deseretnews.com/project/assets/images/hover-button_04.png",
+        "text": "Loneliness",
+        "header": "Teens are increasingly lonely and withdrawn",
+        "html": "San Diego State psychologist Jean Twenge analyzed data from Monitoring the Future, a survey administered to tens of thousands of U.S. high schoolers since the mid-1970s, and found that teens are going out less frequently, dating and partying less and waiting longer to get their drivers licenses. From 2011 to 2015, there was a 30 percent increase in 8th and 10th graders who said they often felt lonely."
+    },
+    {
+        "image": "https://www.deseretnews.com/project/assets/images/button_05.png",
+        "hover": "https://www.deseretnews.com/project/assets/images/hover-button_05.png",
+        "text": "Social media",
+        "header": "The effects of social media are unclear",
+        "html": "In UCLA’s High Education Research Institute survey, about a quarter of incoming freshmen had consistently used social media for six or more hours per week in 2015. In 2016, that increased to two in five. However, teens who spent at least six hours on social media were more likely to spend six or more hours socializing with friends in person — throwing some cold water on the popular theory that teens are substituting social media for in-person meetings, making them more lonely and therefore more anxious."
+    }
+]

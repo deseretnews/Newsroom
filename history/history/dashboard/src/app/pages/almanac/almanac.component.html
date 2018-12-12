@@ -1,0 +1,18 @@
+<h1>Almanac</h1>
+
+<div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
+    aria-expanded="false">
+    Choose Section
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a (click)="changeSection('person')" class="dropdown-item">Person</a>
+    <a (click)="changeSection('calling')" class="dropdown-item">Calling</a>
+    <a (click)="changeSection('countries')" class="dropdown-item">Countries</a>
+  </div>
+</div>
+
+<app-person *ngIf="section === 'person'"></app-person>
+<app-calling *ngIf="section === 'calling'"></app-calling>
+<app-countries *ngIf="section === 'countries'"></app-countries>
+<app-loading *ngIf="section === 'loading'"></app-loading>

@@ -1,0 +1,50 @@
+<br />
+<div class="row">
+  <div class="col-6">
+    <div class="dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+        Choose Country
+      </button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <a class="dropdown-item" *ngFor="let country of almanac.getCountries()" (click)="edit(country.uid)">
+          {{ country.name }}
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-6">
+    <input type="text" class="form-control" [(ngModel)]="country.name" name="name" placeholder="Name" disabled>
+  </div>
+  <div class="col-12">
+    <textarea class="form-control" name="history" [(ngModel)]="country.history" placeholder="Country's history..." id="history"></textarea>
+  </div>
+  <div class="col-12">
+      <button class="btn btn-primary" (click)="saveCountry()">Save Country</button>
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" [(ngModel)]="editor.year" (change)="getYear()" name="year" placeholder="Year">
+  </div>
+  <div class="col-3">
+    <input type="number" class="form-control" placeholder="Population" [(ngModel)]="year.population">
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" placeholder="Membership" [(ngModel)]="year.membership">
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" placeholder="Branches in wards" [(ngModel)]="year.branches.wards">
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" placeholder="Branches in missions" [(ngModel)]="year.branches.missions">
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" placeholder="Missions" [(ngModel)]="year.missions">
+  </div>
+  <div class="col-3">
+      <input type="number" class="form-control" placeholder="First Stake" [(ngModel)]="year.stake">
+  </div>
+  <div class="col-3">
+      <button class="btn btn-primary" *ngIf="editor.key" (click)="saveYear()">Save Year</button>
+      <button class="btn btn-secondary" *ngIf="!editor.key">Select Country First</button>
+  </div>
+</div>

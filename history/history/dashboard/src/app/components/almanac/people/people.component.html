@@ -1,0 +1,17 @@
+<table class="table table-hover table-dark">
+  <thead>
+    <tr>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Birth State</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let person of this.almanac.getPeople()" (click)="editPerson(person.uid)">
+      <td>{{ this.almanac.getName(person.name).first }}</td>
+      <td>{{ this.almanac.getName(person.name).last }}</td>
+      <td *ngIf="person.birth.location">{{ this.almanac.getState(person.birth.location) }}</td>
+      <td *ngIf="!person.birth.location">Not Set</td>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,119 @@
+$yellow: rgb(231, 221, 162);
+$dark: rgb(167, 159, 118);
+$red: rgb(143, 16, 16);
+$blue: rgb(16, 50, 143);
+
+div.interactive[data-type="recipe"] {
+    @keyframes corner {
+        0% {
+            border-top: 60px solid transparent;
+            border-bottom: 60px solid transparent;
+            border-left: 60px solid rgba(231, 221, 162, 0);
+        }
+
+        50% {
+            border-top: 75px solid transparent;
+            border-bottom: 46px solid transparent;
+            border-left: 60px solid $dark;
+        }
+
+        100% {
+            border-top: 60px solid transparent;
+            border-bottom: 60px solid transparent;
+            border-left: 60px solid rgba(231, 221, 162, 0);
+        }
+    }
+
+    font-family: 'Handlee',
+    cursive;
+    background-color: $yellow;
+    filter: drop-shadow(-5px 5px 0px #505050);
+    padding-bottom: 15px;
+    height: 475px;
+    overflow: hidden;
+    position: relative;
+
+    span.title,
+    span.line {
+        display: block;
+    }
+
+    span.title {
+        border-bottom: solid medium $red;
+        padding: 15px 15px 5px 15px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    span.line {
+        padding: 5px 15px 0px 15px;
+        font-size: .9em;
+
+        span.amount {
+            font-weight: bold;
+            color: $blue;
+        }
+
+        span.center {
+            margin-top: 155px;
+            display: block;
+        }
+
+        span.alert {
+            color: $red;
+        }
+    }
+
+    span.corner-msg,
+    span.back {
+        top: 430px;
+        color: $red;
+        position: absolute;
+        font-size: 0.75em;
+        display: block;
+
+        span {
+            background-color: $red;
+            color: $yellow;
+            cursor: pointer;
+            padding: 0px 5px;
+        }
+
+        span:hover {
+            opacity: 0.5;
+        }
+    }
+
+    span.back {
+        margin-top: 20px;
+    }
+
+    div.corner {
+        width: 0;
+        height: 0;
+        border-top: 60px solid transparent;
+        border-bottom: 60px solid transparent;
+        border-left: 60px solid $yellow;
+        position: absolute;
+        right: -9px;
+        bottom: -39px;
+        cursor: pointer;
+        transform: rotate(45deg);
+        animation-name: corner;
+        animation-iteration-count: infinite;
+        animation-duration: 2s;
+    }
+
+    div.corner:hover {
+        border-top: 75px solid transparent;
+        border-bottom: 46px solid transparent;
+        border-left: 60px solid $dark;
+        animation: none;
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="recipe"] {
+        width: 100%;
+    }
+}

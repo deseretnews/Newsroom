@@ -1,0 +1,17 @@
+{
+    "name": {
+        "first": "",
+        "last": ""
+    },
+    "birth": {
+        "date": "",
+        "location": ""
+    },
+    "death": {
+        "date": "",
+        "location": ""
+    },
+    "photo": "",
+    "bio": "",
+    "callings": [""]
+}

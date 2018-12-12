@@ -1,0 +1,62 @@
+div.interactive[data-type="faqs"] {
+    width: 300px;
+    height: 450px;
+    float: left;
+    margin: 25px 25px 25px 0px;
+    text-align: center;
+    overflow: hidden;
+    img.loading-image {
+        width: 75%;
+        max-height: 75%;
+        margin: 0px auto;
+        display: block;
+        margin-bottom: 15px;
+    }
+    img.top-image {
+        height: 150px;
+    }
+    div.btn {
+        background-color: grey;
+        color: white;
+        font-weight: bold;
+        display: block;
+        margin: 10px 0px;
+        padding: 15px 0px;
+        font-size: 1em;
+    }
+    div.btn:hover {
+        opacity: 0.5;
+    }
+    div.info {
+        width: 100%;
+        border: solid thick grey;
+        box-sizing: border-box;
+        padding: 40px 25px;
+        font-weight: bold;
+        margin-top: 25px;
+        position: relative;
+        img {
+            height: 75px;
+            display: block;
+            margin: 0px auto 25px auto;
+        }
+        span.close {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            font-size: 1.5em;
+            cursor: pointer;
+            font-weight: 100;
+        }
+        span.close:hover {
+            opacity: 0.5;
+        }
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.interactive[data-type="faqs"] {
+        margin: 25px 0px;
+        width: 100%;
+    }
+}
