@@ -52,6 +52,6 @@ module.exports = [{
     }, {
         image: 'assets/images/mental-health-breathing.svg',
         title: 'Box breathing',
-        html: `Do these steps for four seconds apiece. Breathe in. Hold. Breathe out. Hold. Pay attention as you do it and feel yourself calm.`
+        html: `Do these steps for four seconds apiece. Breathe in. Hold. Breathe out. Hold. Pay attention as you do it and and feel yourself calm down.`
     }]
 }]

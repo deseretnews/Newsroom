@@ -138,6 +138,14 @@ div.newsroom[data-app="nf4c69b6f7d922516"] {
         div.step-wrapper:not(:last-child) {
             margin-bottom: 15px;
         }
+
+        div.footer-credits {
+            font-size: .75em;
+            text-align: right;
+            span {
+                display: block;
+            }
+        }
     }
 }
 
@@ -204,8 +212,13 @@ div.newsroom[data-app="nf4c69b6f7d922516"] {
             }
 
             div#step-2 {
-                margin-bottom: 25px;
+                margin-bottom: 15px;
             }
         }
+
+        div.footer-credits {
+            margin-bottom: 15px;
+        }
+
     }
 }
