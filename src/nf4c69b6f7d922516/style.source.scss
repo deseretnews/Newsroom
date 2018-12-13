@@ -94,7 +94,6 @@ div.newsroom[data-app="nf4c69b6f7d922516"] {
 
                     div:hover {
                         cursor: pointer;
-                        opacity: 0.5;
                     }
                 }
 
@@ -214,6 +213,10 @@ div.newsroom[data-app="nf4c69b6f7d922516"] {
                         }
                     }
                 }
+            }
+
+            div#step-2 {
+                margin-bottom: 25px;
             }
         }
     }
