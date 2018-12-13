@@ -41,6 +41,7 @@ export default (function () {
     };
     iconElems.forEach(iconElem => {
         iconElem.onclick = function () {
+            if ('ga' in window) ga('send', 'event', 'Anxiety Interactive', 'Icon Clicked', parseInt(this.getAttribute('data-num')));
             displaySlide(parseInt(this.getAttribute('data-num')));
         }
     });
