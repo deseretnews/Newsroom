@@ -1,3 +1,9 @@
+$widgetWidth: 100%;
+$sliderMargin: 10%;
+$curSlideWidth: 80%;
+$widgetHeight: 600px;
+$captionHeight: 150px;
+
 div.newsroom {
     display: block;
 }
@@ -5,24 +11,24 @@ div.newsroom {
 div.newsroom.inline {
     display: block;
     float: left;
-    margin: 10px 25px 15px 0px;
-    width: 450px;
+    margin: 10px 25px 15px 0;
+    width: $widgetWidth;
 }
 
 @media only screen and (max-device-width: 480px) {
     div.newsroom.inline {
         float: none;
         width: 100%;
-        margin: 25px 0px;
+        margin: 25px 0;
     }
 }
 
 @keyframes currentSlideLeft {
     from {
         left: 20%;
-        margin-top: 0px;
+        margin-top: 0;
         height: 100%;
-        margin-left: 0px;
+        margin-left: 0;
         z-index: 0;
     }
 
@@ -30,7 +36,7 @@ div.newsroom.inline {
         left: 15px;
         height: 80%;
         margin-top: 7%;
-        margin-left: 0px;
+        margin-left: 0;
         z-index: 0;
     }
 }
@@ -60,18 +66,17 @@ div.newsroom.inline {
     }
 
     to {
-        right: auto;
         z-index: 9;
-        right: 20%;
+        right: $sliderMargin;
         height: 100%;
-        margin-top: 0px;
+        margin-top: 0;
     }
 }
 
 @keyframes currentSlideRight {
     from {
         margin-left: 20%;
-        margin-top: 0px;
+        margin-top: 0;
         height: 100%;
         z-index: 0;
     }
@@ -94,10 +99,10 @@ div.newsroom.inline {
     to {
         right: auto;
         z-index: 9;
-        left: 20%;
+        left: $sliderMargin;
         height: 100%;
-        margin-top: 0px;
-        margin-left: 0px;
+        margin-top: 0;
+        margin-left: 0;
     }
 }
 
@@ -137,23 +142,28 @@ div.newsroom.inline {
     }
 }
 
-div.newsroom[data-app="n86510d1241100465"] {
+div.newsroom {
     background-color: #1C1C1C;
     color: #EEE;
     overflow: hidden;
 
     h1 {
-        margin: 0px;
+        margin: 0;
     }
 
     div#loading {
         display: block;
     }
 
+    p{
+        font-size: 16px;
+        line-height: normal;
+    }
+
     div#app {
         display: none;
         position: relative;
-        height: 450px;
+        height: $widgetHeight;
 
         ::-webkit-scrollbar {
             display: none;
@@ -162,17 +172,18 @@ div.newsroom[data-app="n86510d1241100465"] {
         div#slider {
             position: relative;
             margin-top: 15px;
-            height: 300px;
+            height: $widgetHeight - $captionHeight;
             width: 100%;
 
             div.image {
                 position: absolute;
-                width: 60%;
+                width: $curSlideWidth;
                 height: 100%;
                 overflow: hidden;
-                filter: drop-shadow(0px 0px 10px black);
+                filter: drop-shadow(0 0 10px black);
                 background-color: #CCC;
-                background-size: cover;
+                background-size: contain;
+                background-repeat: no-repeat;
                 background-position: center center;
                 animation-fill-mode: forwards;
                 animation-duration: .5s;
@@ -196,7 +207,7 @@ div.newsroom[data-app="n86510d1241100465"] {
             }
 
             div#current {
-                margin-left: 20%;
+                margin-left: $sliderMargin;
                 overflow-y: scroll;
             }
 
@@ -218,6 +229,7 @@ div.newsroom[data-app="n86510d1241100465"] {
         }
 
         span#description {
+            height: $captionHeight - 30px;
             margin: 15px;
             font-size: 0.75em;
             display: block;
@@ -235,21 +247,9 @@ div.newsroom[data-app="n86510d1241100465"] {
     }
 }
 
-@media only screen and (max-device-width: 480px) {
-    div.newsroom[data-app="n86510d1241100465"] {
+@media only screen and (max-width: 550px) {
+    div.newsroom {
         box-sizing: border-box;
-
-        div#app {
-            div#slider {
-                div.image {
-                    width: 80%;
-                }
-
-                div#current {
-                    margin-left: 10%;
-                }
-            }
-        }
     }
 
     @keyframes nextSlideLeft {
@@ -265,8 +265,8 @@ div.newsroom[data-app="n86510d1241100465"] {
             right: 10%;
             z-index: 9;
             height: 100%;
-            margin-left: 0px;
-            margin-top: 0px;
+            margin-left: 0;
+            margin-top: 0;
         }
     }
 
@@ -282,8 +282,8 @@ div.newsroom[data-app="n86510d1241100465"] {
         to {
             left: 10%;
             height: 100%;
-            margin-left: 0px;
-            margin-top: 0px;
+            margin-left: 0;
+            margin-top: 0;
             z-index: 9;
         }
     }
@@ -291,7 +291,7 @@ div.newsroom[data-app="n86510d1241100465"] {
     @keyframes currentSlideRight {
         from {
             margin-left: 20%;
-            margin-top: 0px;
+            margin-top: 0;
             height: 100%;
             z-index: 0;
         }

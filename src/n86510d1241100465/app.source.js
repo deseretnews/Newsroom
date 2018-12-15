@@ -1,12 +1,12 @@
 require('./style.source.scss');
 
 let html = require('./markup.source.html');
-const json = require('./data.source.js');
 
 export default (function() {
     // setup
     const UID = 'n86510d1241100465';
     const selector = `div.newsroom[data-app="${UID}"]`;
+    const json = window.n86510d1241100465 || {};
     const container = document.querySelector(selector);
     if (json.inline) container.classList.add('inline');
     container.innerHTML = html;
@@ -28,27 +28,26 @@ export default (function() {
         previous: slideData.length - 1,
         current: 0,
         next: 1
-    }
+    };
 
     const getSlideNum = (num) => {
         if (num < 0) return slideData.length - 1;
         else if (num === slideData.length) return 0;
         else return num;
-    }
+    };
 
     const updateSlideNums = (num) => {
         slideNums.current = slideNums.current + num;
         slideNums.current = getSlideNum(slideNums.current);
         slideNums.previous = getSlideNum(slideNums.current - 1);
         slideNums.next = getSlideNum(slideNums.current + 1);
-    }
+    };
 
     const cacheImageElems = () => slideNames.forEach(name => imageElems[name] = sliderElem.querySelector(`div#${name}`));
 
     const updateSlides = () => slideNames.forEach(name => {
         const slide = slideData[slideNums[name]];
         imageElems[name].style.backgroundImage = `url(${slide.image})`;
-        imageElems[name].querySelector('h2').innerHTML = slide.title;
         imageElems[name].querySelector('span').innerHTML = slide.html;
         captionElem.innerHTML = slide.caption;
     });
@@ -63,7 +62,7 @@ export default (function() {
             imageElems.next.setAttribute('id', 'current');
             imageElems.current.setAttribute('id', 'previous');
         }
-    }
+    };
 
     const applyAnimations = direction => {
         imageElems.previous.onclick = null;
@@ -89,18 +88,18 @@ export default (function() {
                 imageElems.current.scrollTop = 0;
             }, 500);
         }, 1);
-    }
+    };
 
     const attachEventListeners = () => {
         imageElems.previous.onclick = () => {
             clearInterval(automateSlides);
             applyAnimations('Right');
-        }
+        };
         imageElems.next.onclick = () => {
             clearInterval(automateSlides);
             applyAnimations('Left');
         }
-    }
+    };
 
     attachEventListeners();
     updateSlides();
