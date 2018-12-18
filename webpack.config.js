@@ -8,6 +8,7 @@ Object.keys(interactives).forEach(uid => {
 
 module.exports = {
     entry: entries,
+    devtool: "source-maps",
     mode: `production`,
     output: {
         path: path.resolve(__dirname, `dist`),

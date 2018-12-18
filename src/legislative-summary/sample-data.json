@@ -1,0 +1,433 @@
+{
+    "title": "Clean Air Bills By Year",
+    "dek": "This is a dek that should be switched out but it may be 2 lines",
+    "sections": [
+        {
+            "title": "2018",
+            "items": {
+                "Passed": [
+                    {
+                        "title": "<strong>HB 38:<\/strong>&nbsp;&nbsp;Fireworks restrictions",
+                        "description": "<p class=\"legislative-summary--label\">HB 38<\/p><h3 class=\"legislative-summary--title\">Fireworks restrictions <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. James Dunnigan, R<\/p><p>Sen. Jani Iwamoto, D<\/p><\/div><div class=\"legislative-summary--description\">Reduces the number of days fireworks are allowed during July. Fireworks will be allowed from July 2 to July 5, and July 22 to July 25. Leaves New Year's Eve and Chinese New Year as is. Requires sellers to display the maps of where fireworks aren’t allowed. It is the jurisdiction of cities to designate restricted areas.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 101:<\/strong>&nbsp;&nbsp;Air Quality Emissions Testing Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 101<\/p><h3 class=\"legislative-summary--title\">Air Quality Emissions Testing Amendments <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice Arent, D<\/p><p>Sen. Curtis Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Building upon a bill that failed in 2017, creates a three-year pilot program for the non-attainment counties that don't already include diesel vehicles in their emissions inspection programs. At the time of the bill, only Utah County did not require diesel testing. Requires reporting from the county to Division of Air Quality, then Division of Air Quality to the Natural Resources Interim Committee on the estimated emissions reduced. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 331:<\/strong>&nbsp;&nbsp;Air Pollution Mitigation Education Program",
+                        "description": "<p class=\"legislative-summary--label\">HB 331<\/p><h3 class=\"legislative-summary--title\">Air Pollution Mitigation Education Program<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Michael Kennedy, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Requires the education of new drivers regarding how to reduce impact on air quality during vehicle use. Examples include no idling, trip chaining and avoiding cold starts. Requires this information to be provided by the Drivers License Division, in commercial driving schools and driver's education in schools. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 007:<\/strong>&nbsp;&nbsp;Concurrent Resolution on Environmental and Economic Stewardship",
+                        "description": "<p class=\"legislative-summary--label\">HCR 007<\/p><h3 class=\"legislative-summary--title\">Concurrent Resolution on Environmental and Economic Stewardship <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Becky Edwards, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Encourages the responsible stewardship of natural resources and reduction of emissions through incentives and support of the growth in technologies and services that will enlarge the economy.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 56:<\/strong>&nbsp;&nbsp;Vehicle Platooning Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 56<\/p><h3 class=\"legislative-summary--title\">Vehicle Platooning Amendments <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><p>Rep. Kay Christofferson, R<\/p><p>Sen. Wayne A. Harper, R<\/p><\/div><div class=\"legislative-summary--description\">Defines and regulates a connected platooning system, which is \"a system that uses vehicle-to-vehicle communication to electronically coordinate the speed and braking of a lead vehicle with the speed and braking of one or more following vehicles.\" A pilot program has been completed; this bill allows for a more permanent program.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 67:<\/strong>&nbsp;&nbsp;Fireworks Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 67<\/p><h3 class=\"legislative-summary--title\">Fireworks Amendments <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. James Dunnigan, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Requires a uniform state policy on seizure, storage & disposal of confiscated\/illegal fireworks.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 136:<\/strong>&nbsp;&nbsp;Transportation Governance Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 136<\/p><h3 class=\"legislative-summary--title\">Transportation Governance Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><p>Rep. Kay Christofferson, R<\/p><p>Sen. Wayne A. Harper, R<\/p><\/div><div class=\"legislative-summary--description\">Modifies governance of certain public transit districts and modifies taxes related to transportation. Opposed by some air quality advocates because it increases registration fees for Electric Vehicles, plug in hybrids, and hybrids. These fees will be phased in over three years.<\/div>"
+                    }
+                ],
+                "Didn't pass": [
+                    {
+                        "title": "<strong>HB 171:<\/strong>&nbsp;&nbsp;Motor Vehicle Emissions Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 171<\/p><h3 class=\"legislative-summary--title\">Motor Vehicle Emissions Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Angela Romero, D<\/p><p>Sen. Luz Escamilla, D<\/p><\/div><div class=\"legislative-summary--description\">Increases the fine for drivers who intentionally tamper with their emissions controls to \"roll coal.\" Creates a better reporting mechanism from the police\/highway patrol to the health departments so these vehicles can be brought in for inspection. The fee increases from $50 to $100 for the first offense and up to $250 for subsequent offenses. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 211:<\/strong>&nbsp;&nbsp;Freight Switcher Emissions Mitigation",
+                        "description": "<p class=\"legislative-summary--label\">HB 211<\/p><h3 class=\"legislative-summary--title\">Freight Switcher Emissions Mitigation<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Steve Handy, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Creates a pilot project to help Union Pacific replace three freight switcher locomotives. There are 60 switchers in Utah, all of which operate in non-attainment areas in the state. Today's standard engines are 99 percent cleaner than the ones currently in use. The switchers have a 60 year life and cost between $1.5 and $2 million to replace.  Allows Union Pacific to apply for grant funding through the Division of Air Quality with funds provided through this legislation and leveraged with other funding sources such as DERA funds and Union Pacific's own resources. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 479:<\/strong>&nbsp;&nbsp;Zero Emission Vehicle Program",
+                        "description": "<p class=\"legislative-summary--label\">HB 479<\/p><h3 class=\"legislative-summary--title\">Zero Emission Vehicle Program<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Steve Eliason, R<\/p><\/div><div class=\"legislative-summary--description\">Requires a certain number of Zero Emissions Vehicles to be sold in Utah by adopting a portion of the ZEV mandate. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 001:<\/strong>&nbsp;&nbsp;Concurrent Resolution on Climate Change",
+                        "description": "<p class=\"legislative-summary--label\">HCR 001<\/p><h3 class=\"legislative-summary--title\">Concurrent Resolution on Climate Change <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Raymond P. Ward<\/p><\/div><div class=\"legislative-summary--description\">Acknowledges that average global temperatures and average Utah temperatures have increased over recent decades and that there is some scientific consensus that a cause for these increases may be human-caused emissions. States that the Legislature and Governor will continue to base decisions regarding state energy policies on the best scientific evidence available and will continue to urge individuals and corporations to conserve energy.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 009:<\/strong>&nbsp;&nbsp;Rural Development of Wind, Solar and Geothermal",
+                        "description": "<p class=\"legislative-summary--label\">HCR 009<\/p><h3 class=\"legislative-summary--title\">Rural Development of Wind, Solar and Geothermal<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice Arent, D<\/p><p>Sen. Evan Vickers, R<\/p><\/div><div class=\"legislative-summary--description\">Supports the development of wind, solar and geothermal energy in Utah's rural areas as part of Utah's diversified energy system and supports export of this energy to other states.<\/div>"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "2017",
+            "items": {
+                "Passed": [
+                    {
+                        "title": "<strong>HB 33:<\/strong>&nbsp;&nbsp;Mercury Switch Removal Act",
+                        "description": "<p class=\"legislative-summary--label\">HB 33<\/p><h3 class=\"legislative-summary--title\">Mercury Switch Removal Act<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Lee B. Perry, R<\/p><p>Sen. Margaret Dayton, R<\/p><\/div><div class=\"legislative-summary--description\">Program to remove mercury switches when a vehicle is scrapped is extended 10 years. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 37:<\/strong>&nbsp;&nbsp;State Construction Code Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 37<\/p><h3 class=\"legislative-summary--title\">State Construction Code Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Mike Schultz, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Corrects misnomers in Ultra Low NOx Water Heater rule. Follows the recommendations of the Uniform Building Code Commission for radon mitigation.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 96:<\/strong>&nbsp;&nbsp;Petroleum Vapor Recovery Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 96<\/p><h3 class=\"legislative-summary--title\">Petroleum Vapor Recovery Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Steve Eliason, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Building upon a bill that failed in 2016, increases penalties for drivers of petroleum tankers failing to utilize vapor recovery equipment when filling. Petroleum vapor is toxic and contributes to air pollution. This bill serves as a better deterrent for drivers who intentionally fail to use the recovery equipment. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 104:<\/strong>&nbsp;&nbsp;Motor Vehicle Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 104<\/p><h3 class=\"legislative-summary--title\">Motor Vehicle Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Logan Wilde, R<\/p><p>Sen. Allen M. Christiansen, R<\/p><\/div><div class=\"legislative-summary--description\">Allows a local county that imposes a local emissions-compliance fee and use revenues generated from the fee to promote programs to maintain national ambient air quality standards (NAAQS). Local governments charge a compliance fee, paid at vehicle registration ($1-$3) to establish air quality and emissions programs. This bill allows local governments to create additional programs with this compliance fee and increase the fee at their discretion to enhance air quality within their community as long as it is used to promote programs that are aimed to maintain the NAAQS. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 183:<\/strong>&nbsp;&nbsp;Emission Settlement Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 183<\/p><h3 class=\"legislative-summary--title\">Emission Settlement Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Hawkes, R-Centerville; Sen. Shiozawa, R-Cottonwood Heights<\/p><\/div><div class=\"legislative-summary--description\">Creates a fund to receive Volkswagon settlement money and gives Department of Environmental Quality authority to distribute. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 392:<\/strong>&nbsp;&nbsp;Air Quality Policy Advisory Board",
+                        "description": "<p class=\"legislative-summary--label\">HB 392<\/p><h3 class=\"legislative-summary--title\">Air Quality Policy Advisory Board<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep Timothy D. Hawkes, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Creates the Air Quality Policy Advisory Board. The board will be comprised of 10 voting members: two Senators appointed by the Senate President, three Representatives appointed by the Speaker of the House, the Executive Director, one representative from business (non-industry), one representative from industry, one representative from the academic community, and one NGO not representing industry or business. The role of the board will be to a) seek the best available science to identify ways to improve air quality; b) identify and prioritize potential legislation and funding that will improve air quality; and c) make recommendations to the Legislature on how to improve air quality in the state. Requests $38,000 per year  for 2018 and 2019.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 405:<\/strong>&nbsp;&nbsp;Hydrogen Fuel Production Incentives",
+                        "description": "<p class=\"legislative-summary--label\">HB 405<\/p><h3 class=\"legislative-summary--title\">Hydrogen Fuel Production Incentives<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Douglas V. Sagers, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Allows for funding of a hydrogen fuel plant or a plant for the production of zero emission hydrogen fueled trucks. Provides a tax credit for producers of hydrogen fuel or zero emission hydrogen fueled trucks. Could reduce severance tax revenue up to $5,000,000 per eligible taxpayer beginning in 2019.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 5:<\/strong>&nbsp;&nbsp;Concurrent Resolution on Clean Fuel School Buses",
+                        "description": "<p class=\"legislative-summary--label\">HCR 5<\/p><h3 class=\"legislative-summary--title\">Concurrent Resolution on Clean Fuel School Buses<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Urges Utah to use money from the Volkswagen settlement to begin replacing dirty diesel school buses with clean fuel school buses. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 8:<\/strong>&nbsp;&nbsp;Volkswagen Settlement",
+                        "description": "<p class=\"legislative-summary--label\">HCR 8<\/p><h3 class=\"legislative-summary--title\">Volkswagen Settlement<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Timothy D. Hawkes, R<\/p><p>Sen. Brian E. Shiozawa, R<\/p><\/div><div class=\"legislative-summary--description\">Highlights provisions of Volkswagon settlement and Utah's participation as a beneficiary.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 18:<\/strong>&nbsp;&nbsp;Encouraging Utahns to Consider the Smog Rating When Purchasing a Vehicle",
+                        "description": "<p class=\"legislative-summary--label\">HCR 18<\/p><h3 class=\"legislative-summary--title\">Encouraging Utahns to Consider the Smog Rating When Purchasing a Vehicle<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Brian E. Shiozawa, R<\/p><p>+ 46 co-sponsors<\/p><\/div><div class=\"legislative-summary--description\">Encourages Utahns to purchase a vehicle with a smog rating of eight or higher because vehicles with high smog ratings produce less pollution. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 24:<\/strong>&nbsp;&nbsp;Natural Gas Heavy Duty Tax Credit Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 24<\/p><h3 class=\"legislative-summary--title\">Natural Gas Heavy Duty Tax Credit Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Jon E. Stanard, R<\/p><p>Sen. Daniel Hemmert, R<\/p><\/div><div class=\"legislative-summary--description\">Clarifies that the corporate tax credit for natural gas heavy-duty vehicles is nonrefundable. Transfers decision-making for the tax credit from the Air Quality Board to the Director of the Division of Air Quality.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 90:<\/strong>&nbsp;&nbsp;Vehicle Inspection And Registration Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 90 <\/p><h3 class=\"legislative-summary--title\">Vehicle Inspection And Registration Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Cory A. Maloy, R<\/p><p>Sen. Jacob L. Anderegg, R<\/p><\/div><div class=\"legislative-summary--description\">\"Fix it ticket\" When a driver is stopped for expired inspection of less than 2 months, the driver will receive no fine if fixed within 2 weeks.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 154:<\/strong>&nbsp;&nbsp;Solar Access Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 154<\/p><h3 class=\"legislative-summary--title\">Solar Access Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Francis D. Gibson, R<\/p><p>Sen. Lincoln Filmore, R<\/p><\/div><div class=\"legislative-summary--description\">Building upon a bill that failed in 2016, restricts community associations from placing unreasonable restrictions on solar panels. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 197:<\/strong>&nbsp;&nbsp;Refinery Sales and Use Tax Exemption Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 197<\/p><h3 class=\"legislative-summary--title\">Refinery Sales and Use Tax Exemption Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Brad R. Wilson, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Requires a refiner that seeks to be eligible for the sales and use tax exemption to report certain information annually to the Office of Energy Development. The Office of Energy Development must annually certify that the refiner is meeting certain fuel standards in order to be eligible for the sales and use tax exemption. Grants the Office of Energy Development rulemaking authority to administer the certification requirements.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 273:<\/strong>&nbsp;&nbsp;Energy Development Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 273<\/p><h3 class=\"legislative-summary--title\">Energy Development Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Francis D. Gibson, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Commercial Property Assessed Clean Energy Act or C-PACE Act. C-PACE is a mechanism for financing clean energy and energy efficiency improvements on commercial buildings. This bill makes the process more attractive to eligible building owners.<\/div>"
+                    }
+                ],
+                "Didn't pass": [
+                    {
+                        "title": "<strong>HB 29:<\/strong>&nbsp;&nbsp;Energy Efficient Vehicle Tax Credit Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 29<\/p><h3 class=\"legislative-summary--title\">Energy Efficient Vehicle Tax Credit Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Extends the tax credit for electric vehicles and plug-in hybrids to 2021, retroactively. Allows the credit to be given to the consumer at time of purchase. Phases out the incentive between 2017 and 2022. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 134:<\/strong>&nbsp;&nbsp;Emissions Testing Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 134<\/p><h3 class=\"legislative-summary--title\">Emissions Testing Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Restricts the authority of a county to exempt a motor vehicle from an emissions test. Requires any county with a current emissions testing program to test diesels under 14,000 pounds. Passed eventually in 2018.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 454:<\/strong>&nbsp;&nbsp;Non-Attainment Area Pollution Reduction Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 454<\/p><h3 class=\"legislative-summary--title\">Non-Attainment Area Pollution Reduction Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Steve Eliason, R<\/p><\/div><div class=\"legislative-summary--description\">$100,000 to provide funding for grants to low-income individuals to fix or replace vehicles that do not pass emissions inspections.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 457:<\/strong>&nbsp;&nbsp;Carbon Emissions Tax",
+                        "description": "<p class=\"legislative-summary--label\">HB 457<\/p><h3 class=\"legislative-summary--title\">Carbon Emissions Tax<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Joel K. Briscoe, D<\/p><\/div><div class=\"legislative-summary--description\">Imposes a tax on various carbon based fuels that would escalate for several years. Creates an expendable revenue fund. Allocates tax proceeds. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HJR 18:<\/strong>&nbsp;&nbsp;Resolution on Economic and Environmental Stewardship",
+                        "description": "<p class=\"legislative-summary--label\">HJR 18<\/p><h3 class=\"legislative-summary--title\">Resolution on Economic and Environmental Stewardship<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><\/div><div class=\"legislative-summary--description\">Expresses commitment to conservative environmental stewardship. Acknowledges Utah's existing commitment to reduce combustion emissions and improve air quality. Recognizes that climate disruption poses a potential threat to our national security. Recognizes that good stewardship of the economy and environment fosters security, sustainability, and independence. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 217:<\/strong>&nbsp;&nbsp;Environmental Impact Mitigation Regarding New Prison Project",
+                        "description": "<p class=\"legislative-summary--label\">SB 217<\/p><h3 class=\"legislative-summary--title\">Environmental Impact Mitigation Regarding New Prison Project<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Sen. Luz Escamilla, D<\/p><\/div><div class=\"legislative-summary--description\">Stipulates that the Division of Air Quality will report on air quality monitoring for the new prison, he Department of Administrative Services webpage will provide information and the Prison Development Commission will inform the commission concerning environmental impact mitigation efforts in connection with the new correctional facilities construction project. Requests $5,000 over two years. <\/div>"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "2016",
+            "items": {
+                "Passed": [
+                    {
+                        "title": "<strong>HB 87:<\/strong>&nbsp;&nbsp;Clean Fuel Conversion",
+                        "description": "<p class=\"legislative-summary--label\">HB 87<\/p><h3 class=\"legislative-summary--title\">Clean Fuel Conversion<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy,R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Continues a two-year process to incentivize the conversion of older vehicles to clean fuel alternatives, but was amended to remove the extension of Utah's Clean Fuel Vehicle Tax Credit through 2020, due to the large cost. The $1,500 tax credit for electric vehicles will remain through 2016. Requests $150,000. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 130:<\/strong>&nbsp;&nbsp;Electric Vehicle Infrastructure",
+                        "description": "<p class=\"legislative-summary--label\">HB 130<\/p><h3 class=\"legislative-summary--title\">Electric Vehicle Infrastructure<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Kevin T. Van Tassell, R<\/p><\/div><div class=\"legislative-summary--description\">Amends C-PACE (Commercial Property Assessed Clean Energy) financing to expand the program to include financing for electric vehicle charging stations and energy storage devices. In addition, the allowable financing term will increase from twenty to thirty years. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 237:<\/strong>&nbsp;&nbsp;Income Tax Contribution for Clean Air",
+                        "description": "<p class=\"legislative-summary--label\">HB 237<\/p><h3 class=\"legislative-summary--title\">Income Tax Contribution for Clean Air<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Creates the Clean Air Fund, which allows individuals to make a voluntary donation of any amount to the fund on their tax return. The money will go to the Department of Environmental Quality where it will be made available for grants and other projects to improve the air. Requests $25,200. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 242:<\/strong>&nbsp;&nbsp;Alternative Energy Development Tax Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 242<\/p><h3 class=\"legislative-summary--title\">Alternative Energy Development Tax Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">In 2012, a bill was passed that attempted to lower the costs to industries like eBay to use renewable energy. Rocky Mountain Power & the Public Service Commission were unable to make a workable agreement in the years since, and this bill \"modifies an exemption from state and municipal tax paid on sales or uses of electricity, if the sales or uses are made under a tariff adopted by the Public Service Commission only for purchase of electricity produced from a new alternative energy source,\" and provides a small incentive that is expected to bring 10 to 20 million watts of new renewable energy to Utah. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 244:<\/strong>&nbsp;&nbsp;Independent Energy Producer",
+                        "description": "<p class=\"legislative-summary--label\">HB 244<\/p><h3 class=\"legislative-summary--title\">Independent Energy Producer<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Francis D. Gibson, R<\/p><p>Sen. Wayne A. Harper, R<\/p><\/div><div class=\"legislative-summary--description\">Creates a new mechanism for homeowners to go solar. With a power purchase agreement, a solar company can install and own the panels on your rooftop and sell you the electricity.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 250:<\/strong>&nbsp;&nbsp;Air Quality Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 250<\/p><h3 class=\"legislative-summary--title\">Air Quality Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Edward H. Redd, R<\/p><p>Sen. Scott K. Jenkins, R<\/p><\/div><div class=\"legislative-summary--description\">Requires that all water heaters sold and installed in Utah after July, 2018, be Ultra-Low NOx emissions water heaters, which is expected to reduce NOx emissions by approximately 2,700 tons per year. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 316:<\/strong>&nbsp;&nbsp;Building Code Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 316<\/p><h3 class=\"legislative-summary--title\">Building Code Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Brad R. Wilson, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Updates the building code to require 75 percent of lighting installed in new homes to be high efficiency, minor improvements to the building envelope, air ducts and air-tightness. However there is still an equipment trade-off provision which will act to allow homes to be built with less efficient exterior walls when a high efficiency heating and cooling system is installed. Also adopts the new \"Energy Rating Index Compliance Alternative,\" which will help improve consumer understanding of energy efficient construction practices. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 13:<\/strong>&nbsp;&nbsp;State Facility Energy Efficiency",
+                        "description": "<p class=\"legislative-summary--label\">SB 13<\/p><h3 class=\"legislative-summary--title\">State Facility Energy Efficiency<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Jack R. Draxler, R<\/p><p>Sen. Scott K. Jenkins, R<\/p><\/div><div class=\"legislative-summary--description\">Requires the state building board to make rules establishing a method of monitoring and reporting actual savings resulting from energy efficiency measures implemented using loan money from the State Facility Energy Efficiency Fund.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 49:<\/strong>&nbsp;&nbsp;Statute of Limitations on Environmental Code Violations",
+                        "description": "<p class=\"legislative-summary--label\">SB 49<\/p><h3 class=\"legislative-summary--title\">Statute of Limitations on Environmental Code Violations<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca Chavez-Houck, D<\/p><p>Sen. Luz Escamilla, D<\/p><\/div><div class=\"legislative-summary--description\">Increases the statute of limitations for environmental offenders from one year to two years. Originally drafted to increase the statute to five years, but was amended during committee to just one additional year.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 102:<\/strong>&nbsp;&nbsp;High Cost Infrastructure Tax Credit Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 102<\/p><h3 class=\"legislative-summary--title\">High Cost Infrastructure Tax Credit Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Francis D. Gibson, R<\/p><p>Sen. Ralph Okerlund, R<\/p><\/div><div class=\"legislative-summary--description\">Provides a tax incentive for the refineries to expedite the production of Tier 3 fuel to rural areas to build infrastructure for industrial, mining, manufacturing or agriculture activity in Utah. This bill was passed in 2015 but lacked some necessary elements. This revision gives rulemaking authority to Office of Energy Development, gives the office the chairmanship of the board and increases the rural representation of the board.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 115:<\/strong>&nbsp;&nbsp;Sustainable Transportation and Energy Plan Act (STEP).",
+                        "description": "<p class=\"legislative-summary--label\">SB 115<\/p><h3 class=\"legislative-summary--title\">Sustainable Transportation and Energy Plan Act (STEP).<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. V. Lowry Snow, R<\/p><p>Sen. J Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Allows the Public Service Commission to authorize a large-scale electric utility to implement tariffs to provide funding for a sustainable transportation and energy pilot programs. For example, allows companies to invest in EV infrastructure projects. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 118:<\/strong>&nbsp;&nbsp;Uintah Basin Air Quality Research",
+                        "description": "<p class=\"legislative-summary--label\">SB 118<\/p><h3 class=\"legislative-summary--title\">Uintah Basin Air Quality Research<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Scott H. Chew, R<\/p><p>Sen. Kevin T. Van Tassell, R<\/p><\/div><div class=\"legislative-summary--description\">Creates Uintah Basin Air Quality Research Project and requires the Utah State University Bingham entrepreneurship and energy research center to conduct the project. Requests $500,000. <\/div>"
+                    }
+                ],
+                "Didn't pass": [
+                    {
+                        "title": "<strong>HB 121:<\/strong>&nbsp;&nbsp;Building Code Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 121<\/p><h3 class=\"legislative-summary--title\">Building Code Amendments <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><\/div><div class=\"legislative-summary--description\">Amends provisions relating to State Construction Code while providing an alternative means of complying with the Energy Conservation Code.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 256:<\/strong>&nbsp;&nbsp;Net Metering of Electricity Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 256<\/p><h3 class=\"legislative-summary--title\">Net Metering of Electricity Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Fred C. Cox, R<\/p><\/div><div class=\"legislative-summary--description\">Provides that the existing $2 monthly fee for those using no power or generating power for credits will not be increased by the Public Service Commission. Allows homeowners the option to be paid wholesale rates on an existing schedule instead of credits while allowing additional fees to pay for grid and maintenance to be charged to the homeowner using this option.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 356:<\/strong>&nbsp;&nbsp;Taxation of Solar Energy Devices",
+                        "description": "<p class=\"legislative-summary--label\">HB 356 <\/p><h3 class=\"legislative-summary--title\">Taxation of Solar Energy Devices <\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. John Knotwell, R<\/p><\/div><div class=\"legislative-summary--description\">Creates a sales and use tax exemption for solar energy machinery, equipment, parts and materials under certain circumstances<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 372:<\/strong>&nbsp;&nbsp;Refiner and Importer Reporting",
+                        "description": "<p class=\"legislative-summary--label\">HB 372<\/p><h3 class=\"legislative-summary--title\">Refiner and Importer Reporting<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Raymond P. Ward, R<\/p><\/div><div class=\"legislative-summary--description\">Requires refineries to annually report on the status of their conversion to Tier 3 fuels. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 385:<\/strong>&nbsp;&nbsp;Petroleum Vapor Recovery Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 385<\/p><h3 class=\"legislative-summary--title\">Petroleum Vapor Recovery Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Steve Eliason, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Creates criminal penalties for the drivers of petroleum trucks that do not recapture fuel vapor when transferring fuel to underground storage tanks. The vapor released during the filling process contains high levels of volatile organic compounds. When these compounds are released into the atmosphere they contribute to poor air quality and present a health risk in certain levels. Ultimately passed in 2017. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 451:<\/strong>&nbsp;&nbsp;Solar Access Protection Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 451<\/p><h3 class=\"legislative-summary--title\">Solar Access Protection Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. V. Lowry Snow, R<\/p><\/div><div class=\"legislative-summary--description\">Prohibits the enforcement of any real property covenant or homeowner association regulation that would unreasonably restrict or prohibit homeowners from installing solar panels on their private property. Ultimately passed in 2017. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 66:<\/strong>&nbsp;&nbsp;Environmental Code Fines",
+                        "description": "<p class=\"legislative-summary--label\">SB 66<\/p><h3 class=\"legislative-summary--title\">Environmental Code Fines<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Sen. Luz Escamila, D<\/p><\/div><div class=\"legislative-summary--description\">Increases civil penalties against a person who violates the Air Conservation Act. \nThe fines would be raised from $25,000 a day to $65,000 a day, with subsequent violations increased to as much as $130,500 a day. Among the largest increases suggested by the bill were penalties for criminal environmental infractions where an entity knowingly or willfully harms the environment. <\/div>"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "2015",
+            "items": {
+                "Passed": [
+                    {
+                        "title": "<strong>HB 15:<\/strong>&nbsp;&nbsp;Clean Fuel Amendments and Rebates",
+                        "description": "<p class=\"legislative-summary--label\">HB 15<\/p><h3 class=\"legislative-summary--title\">Clean Fuel Amendments and Rebates<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Allows installer of compressed natural gas conversion to receive incentive grant. Individual customers will not have to navigate the grant process. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 17:<\/strong>&nbsp;&nbsp;Motor Vehicle Emissions",
+                        "description": "<p class=\"legislative-summary--label\">HB 17<\/p><h3 class=\"legislative-summary--title\">Motor Vehicle Emissions<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Lee B. Perry, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Intended as a tool to regulate \"rolling coal.\" Judicial discretion to increase fine for repeat violations up to $750. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 80:<\/strong>&nbsp;&nbsp;Transportation Project Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 80<\/p><h3 class=\"legislative-summary--title\">Transportation Project Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. V. Lowry Snow, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Authorizes the Department of Transportation to assume federal responsibilities with respect to one or more highway projects within the state under the National Environmental Policy Act of 1969.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 110:<\/strong>&nbsp;&nbsp;Motor Vehicle Emissions Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 110<\/p><h3 class=\"legislative-summary--title\">Motor Vehicle Emissions Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Authorizes the DMV to rescind registration when notified by a local health department that a registered vehicle is unable to meet air emissions standards.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 226:<\/strong>&nbsp;&nbsp;Air Quality Revisions",
+                        "description": "<p class=\"legislative-summary--label\">HB 226<\/p><h3 class=\"legislative-summary--title\">Air Quality Revisions<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Authorizes the Division of Air Quality to create rules that are different than the EPA's if additional regulations will provide added protection. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 362:<\/strong>&nbsp;&nbsp;Transportation Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 362<\/p><h3 class=\"legislative-summary--title\">Transportation Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Johnny Andserson, R<\/p><p>Sen. Alvin B. Jackson, R<\/p><\/div><div class=\"legislative-summary--description\">Authorizes local options at the county level for .25 percent sales tax increase, 0.1 percent for transit and five cent gas tax increase.<\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 216:<\/strong>&nbsp;&nbsp;High Cost Infrastructure Tax Credits",
+                        "description": "<p class=\"legislative-summary--label\">SB 216<\/p><h3 class=\"legislative-summary--title\">High Cost Infrastructure Tax Credits<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Jon Cox, R<\/p><p>Sen. Ralph Okerlund, R<\/p><\/div><div class=\"legislative-summary--description\">Modifies provisions related to tax credits for infrastructure development projects. Designed for rural areas without transmission, natural gas, power, water and sewer infrastructure. Also gives tax incentive for refineries to build Tier 3. <\/div>"
+                    }
+                ],
+                "Didn't pass": [
+                    {
+                        "title": "<strong>HB 49:<\/strong>&nbsp;&nbsp;Clean Fuel School Buses and Infrastructure",
+                        "description": "<p class=\"legislative-summary--label\">HB 49<\/p><h3 class=\"legislative-summary--title\">Clean Fuel School Buses and Infrastructure<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Allows the Board of Education to make grants to schools to replace dirty diesel school buses with natural gas, electric or biodiesel for $20 million. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 95:<\/strong>&nbsp;&nbsp;Extension of Tax Credit for Energy Efficient Vehicles",
+                        "description": "<p class=\"legislative-summary--label\">HB 95<\/p><h3 class=\"legislative-summary--title\">Extension of Tax Credit for Energy Efficient Vehicles<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. V. Lowry Snow, R<\/p><\/div><div class=\"legislative-summary--description\">Extends sunset date of tax credit for Energy Efficient Vehicles to December 2016, from December 2015. Requests $1.2 million. Ultimately incorporated into HB 15. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 265:<\/strong>&nbsp;&nbsp;Tire Fee Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 265<\/p><h3 class=\"legislative-summary--title\">Tire Fee Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca Chavez-Houck, D<\/p><\/div><div class=\"legislative-summary--description\">Adds $2.50 to the tire recycling fee be paid by the consumer to the tire retailer at the time the new tire is purchased. Creates a restricted account to fund clean air programs. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 69:<\/strong>&nbsp;&nbsp;Clean Burning Fuel for Motor Pools",
+                        "description": "<p class=\"legislative-summary--label\">SB 69<\/p><h3 class=\"legislative-summary--title\">Clean Burning Fuel for Motor Pools<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. Scott K. Jenkins, R<\/p><\/div><div class=\"legislative-summary--description\">Requires a government entity to ensure that 50 percent or more of 14 motor vehicles are alternative fuel or high efficiency vehicles. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 87:<\/strong>&nbsp;&nbsp;Environmental Protection Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 87<\/p><h3 class=\"legislative-summary--title\">Environmental Protection Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca Chavez-Houck, D<\/p><p>Sen. Gene Davis, D<\/p><\/div><div class=\"legislative-summary--description\">Repeals a law that prohibited the Division of Air Quality from making rules more stringent than the Clean Air Act. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 208:<\/strong>&nbsp;&nbsp;Air Quality Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 208<\/p><h3 class=\"legislative-summary--title\">Air Quality Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca Chavez-Houck, D<\/p><p>Sen. Luz Escamilla, D<\/p><\/div><div class=\"legislative-summary--description\">Increases fines for violation of Air Conservation Act and extends the statue of limitations from 1 year to 5 years. Allows the Department of Environmental Quality to keep up to 50 percent of fines. <\/div>"
+                    }
+                ],
+                "": [
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\"><\/div>"
+                    },
+                    {
+                        "title": "<strong>:<\/strong>&nbsp;&nbsp;",
+                        "description": "<p class=\"legislative-summary--label\"><\/p><h3 class=\"legislative-summary--title\"><\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p><\/p><\/div><div class=\"legislative-summary--description\">Notes: building codes extended 3-6 years, seasonal burn ban HB 396 <\/div>"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "2014",
+            "items": {
+                "Passed": [
+                    {
+                        "title": "<strong>HB 19:<\/strong>&nbsp;&nbsp;Electric Vehicle Charging",
+                        "description": "<p class=\"legislative-summary--label\">HB 19<\/p><h3 class=\"legislative-summary--title\">Electric Vehicle Charging<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Ralph Okerlund, R<\/p><\/div><div class=\"legislative-summary--description\">Removes the regulatory barrier for electric vehicle charging stations. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 31:<\/strong>&nbsp;&nbsp;Pollution Control Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 31<\/p><h3 class=\"legislative-summary--title\">Pollution Control Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Ryan D. Wilcox, R<\/p><p>Sen. Deidre M. Henderson, R<\/p><\/div><div class=\"legislative-summary--description\">Addresses a sales and use tax exemption related to pollution control. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 38:<\/strong>&nbsp;&nbsp;Resource Stewardship Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 38<\/p><h3 class=\"legislative-summary--title\">Resource Stewardship Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Ralph Okerlund, R<\/p><\/div><div class=\"legislative-summary--description\">Follows on a bill from 2013, which required agencies in all branches of state government to report efforts to imporve air quality. Creates a coordinator of resource stweardship in Department of Adminstrative Services to work with agencies to implement best practices to improve air quality and report to the Legislature annually.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 61:<\/strong>&nbsp;&nbsp;Clean Air Programs",
+                        "description": "<p class=\"legislative-summary--label\">HB 61<\/p><h3 class=\"legislative-summary--title\">Clean Air Programs<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Ralph Okerlund, R<\/p><\/div><div class=\"legislative-summary--description\">Creates the Clean Air Retrofit, Replaement and Off Road Technology (CARROT) Fund with $200,000 for grants to help small businesses and individuals replace lawn mowers, snow blowers, and other outdoor equipment with cleaner alternatives. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 74:<\/strong>&nbsp;&nbsp;Energy Efficient Vehicle Tax Credits",
+                        "description": "<p class=\"legislative-summary--label\">HB 74<\/p><h3 class=\"legislative-summary--title\">Energy Efficient Vehicle Tax Credits<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. V. Lowry Snow, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Provides an income tax credit for the purchase, or lease, of a new, clean vehicle. $1,500 for new plug-in electric and compressed natural gas; $1,000 for a plug-in hybrid. To be reviewed after one year. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 154:<\/strong>&nbsp;&nbsp;Wood Buring Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 154<\/p><h3 class=\"legislative-summary--title\">Wood Buring Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">$750,000 in funding for a public awareness campaign about the effects of wood burning on air quality and to convert homes whose sole source of heat is wood to natural gas. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HR 5:<\/strong>&nbsp;&nbsp;Bio-diesel",
+                        "description": "<p class=\"legislative-summary--label\">HR 5<\/p><h3 class=\"legislative-summary--title\">Bio-diesel<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Johnny Anderson, R<\/p><\/div><div class=\"legislative-summary--description\">Encourages the use of biodiesel fuel. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HJR 5:<\/strong>&nbsp;&nbsp;Building Code Commission Changes Resolution",
+                        "description": "<p class=\"legislative-summary--label\">HJR 5<\/p><h3 class=\"legislative-summary--title\">Building Code Commission Changes Resolution<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Jim Nielson, R<\/p><p>Sen. J. Stuart Adams, R<\/p><\/div><div class=\"legislative-summary--description\">Recognizes the Building Code Commision as the advisor to the Division of Occupational and Professional Licensing on construction codes. Actions to change the code should be submitted to the commission for its opinion. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 99:<\/strong>&nbsp;&nbsp;State Fleet Efficiency",
+                        "description": "<p class=\"legislative-summary--label\">SB 99<\/p><h3 class=\"legislative-summary--title\">State Fleet Efficiency<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Gage Froerer, R<\/p><p>Sen. Scott K. Jenkins, R<\/p><\/div><div class=\"legislative-summary--description\">Requires that 50 percent of passenger vehicles in the state fleet be alternative fuel or high efficiency vehicles by 2018. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 196:<\/strong>&nbsp;&nbsp;Medical Waste Incineration",
+                        "description": "<p class=\"legislative-summary--label\">SB 196<\/p><h3 class=\"legislative-summary--title\">Medical Waste Incineration<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Prohibits the licensing of a new medical waste incenerator within two miles of residential areas.<\/div>"
+                    }
+                ],
+                "Didn't pass": [
+                    {
+                        "title": "<strong>HB 55:<\/strong>&nbsp;&nbsp;Income Tax Credit for Purchase of Transit",
+                        "description": "<p class=\"legislative-summary--label\">HB 55<\/p><h3 class=\"legislative-summary--title\">Income Tax Credit for Purchase of Transit<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Marie H. Poulson, D<\/p><p>Sen. Brian E. Shiozawa, R<\/p><\/div><div class=\"legislative-summary--description\">Provides an individual income tax credit for the purchase of certain public transit passes. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 41:<\/strong>&nbsp;&nbsp;Clean Fuel School Buses\/Infrastructure",
+                        "description": "<p class=\"legislative-summary--label\">HB 41<\/p><h3 class=\"legislative-summary--title\">Clean Fuel School Buses\/Infrastructure<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Stephen G. Handy, R<\/p><p>Sen. Aaron Osmond, R<\/p><\/div><div class=\"legislative-summary--description\">Allows the Board of Education to make grants to schools to replace dirty diesel school buses with natural gas, electric or biodiesel for $20 million. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 110:<\/strong>&nbsp;&nbsp;Renewable Energy Amendments",
+                        "description": "<p class=\"legislative-summary--label\">HB 110<\/p><h3 class=\"legislative-summary--title\">Renewable Energy Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Kraig Powell, R<\/p><\/div><div class=\"legislative-summary--description\">Allows cities to aggregate and resell renewable energy. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 121:<\/strong>&nbsp;&nbsp;Air Quality Revisions",
+                        "description": "<p class=\"legislative-summary--label\">HB 121<\/p><h3 class=\"legislative-summary--title\">Air Quality Revisions<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><p>Sen. Todd Weiler, R<\/p><\/div><div class=\"legislative-summary--description\">Allows the Division of Air Quality to create air quality standards that address unique geography-based needs in different areas of the state. Modifies 19-2-106 'no more stringent' provision that prevents Utah standards from being more stringent than national standards.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 271:<\/strong>&nbsp;&nbsp;Motor Vehicle Emissions",
+                        "description": "<p class=\"legislative-summary--label\">HB 271<\/p><h3 class=\"legislative-summary--title\">Motor Vehicle Emissions<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Lee B. Perry, R<\/p><p>Sen. Curtis S. Bramble, R<\/p><\/div><div class=\"legislative-summary--description\">Enables easier enforcement against tampering and excess smoke from diesel pickups. <\/div>"
+                    },
+                    {
+                        "title": "<strong>HB 388:<\/strong>&nbsp;&nbsp;Amendments to Transportation Funding",
+                        "description": "<p class=\"legislative-summary--label\">HB 388 <\/p><h3 class=\"legislative-summary--title\">Amendments to Transportation Funding<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Johnny Anderson, R<\/p><p>Sen. Jerry W. Stevenson, R<\/p><\/div><div class=\"legislative-summary--description\">Allows local voters to impose an additional .25 percent local sales tax increase to improve routes and frequency of bus transit.<\/div>"
+                    },
+                    {
+                        "title": "<strong>HCR 7:<\/strong>&nbsp;&nbsp;Support Plans to Reduce Air Pollution",
+                        "description": "<p class=\"legislative-summary--label\">HCR 7<\/p><h3 class=\"legislative-summary--title\">Support Plans to Reduce Air Pollution<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Joel K. Briscoe, D<\/p><p>Sen. Gene Davis, D<\/p><\/div><div class=\"legislative-summary--description\">Endorses the PM2.5 State Implementation Plan <\/div>"
+                    },
+                    {
+                        "title": "<strong>HJR 23:<\/strong>&nbsp;&nbsp;Resolution Endorsing Tier 3",
+                        "description": "<p class=\"legislative-summary--label\">HJR 23<\/p><h3 class=\"legislative-summary--title\">Resolution Endorsing Tier 3<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Patrice M. Arent, D<\/p><p>Sen. John L. Valentine, R<\/p><\/div><div class=\"legislative-summary--description\">Joint Resolution to encourage implementation in Utah of Tier 3 fuel and vehicle emission standards. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 64:<\/strong>&nbsp;&nbsp;Air Quality Rules and Penalties",
+                        "description": "<p class=\"legislative-summary--label\">SB 64<\/p><h3 class=\"legislative-summary--title\">Air Quality Rules and Penalties<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Sen. Luz Escamilla, D<\/p><\/div><div class=\"legislative-summary--description\">Repeals provisions prohibiting the Air Quality board from making rules that are more stringent than federal regulations and increases civil penalties against a person who violates the Air Conservation Act. Prohibits the inceneration of medical waste within a five mile radius of a residential area. Increases the statute of limitations for violations of the Environmental Quality Code to five years. <\/div>"
+                    },
+                    {
+                        "title": "<strong>SB 164:<\/strong>&nbsp;&nbsp;Environmental Protection Amendments",
+                        "description": "<p class=\"legislative-summary--label\">SB 164<\/p><h3 class=\"legislative-summary--title\">Environmental Protection Amendments<\/h3><div class=\"legislative-summary--sponsors\"><h4>Sponsored By<\/h4><p>Rep. Rebecca P. Edwards, R<\/p><p>Sen. Gene Davis, D<\/p><\/div><div class=\"legislative-summary--description\">Removes 19-2-106 'no more stringent' provision that prevents Utah standards from being more stringent than national standards.<\/div>"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -6,7 +6,7 @@ export default (function() {
     // setup
     const UID = 'n86510d1241100465';
     const selector = `div.newsroom[data-app="${UID}"]`;
-    const json = window.n86510d1241100465 || {};
+    const json = window['n86510d1241100465-1'] || {};
     const container = document.querySelector(selector);
     if (json.inline) container.classList.add('inline');
     container.innerHTML = html;
@@ -20,7 +20,7 @@ export default (function() {
             next: sliderElem.querySelector('div#next'),
             current: sliderElem.querySelector('div#current'),
         },
-        captionElem = app.querySelector('span#description'),
+        captionElem = appElem.querySelector('span#description'),
         slideNames = ['previous', 'next', 'current'],
         slideData = json.slides;
 
@@ -110,5 +110,5 @@ export default (function() {
 
     // display
     loading.style.display = 'none';
-    app.style.display = 'block';
+    appElem.style.display = 'block';
 })();

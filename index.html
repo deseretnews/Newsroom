@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="https://www.deseretnews.com/v4/dist/app.css" />
+    <link rel="stylesheet" href="https://www.deseretnews.com/v4/dist/app.css"/>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -19,7 +19,7 @@
             padding: 65px 0px 25px 0px;
         }
 
-        div#list>ul>li {
+        div#list > ul > li {
             cursor: pointer;
         }
 
@@ -36,8 +36,7 @@
 <body>
     <header data-reactroot="" id="header" class="headroom headroom--pinned headroom--not-top">
         <div class="container container--header">
-            <div class="container--left">
-            </div>
+            <div class="container--left"></div>
             <div class="container--center">
                 <div id="header-title">
                     <a href="./" class="beehive"></a>
@@ -124,7 +123,7 @@
                 <div id="footer-mobile">
                     <div id="footer-mobile-links">
                         Interactive applications for your articles!
-                        <br />
+                        <br/>
                         <a href="./">Click Here To Return Home</a>
                     </div>
                     <div id="footer-mobile-channels">
@@ -144,11 +143,30 @@
                 list.style.display = 'none';
                 wrapper.style.display = 'block';
                 var uid = window.location.hash.replace('#', '');
-                document.querySelector('div.newsroom').setAttribute('data-app', uid);
+                loadSampleData(uid);
+                //window[uid + '-1'] = JSON.parse()
+                //
+                var el = document.querySelector('div.newsroom');
+                el.classList.add('newsroom--'+uid);
+                el.setAttribute('data-app', uid);
+                el.setAttribute('data-datavar', uid + '-1');
                 var script = document.createElement('script');
                 script.setAttribute('src', 'dist/' + uid + '.min.js');
                 wrapper.appendChild(script);
             }
+
+            function loadSampleData(uid) {
+                var url = '/src/' + uid + '/sample-data.json';
+                var xmlhttp = new XMLHttpRequest();
+                xmlhttp.onreadystatechange = function () {
+                    if (this.readyState === 4 && this.status === 200) {
+                        window[uid + '-1'] = JSON.parse(this.responseText);
+                    }
+                };
+                xmlhttp.open('get', url, true);
+                xmlhttp.send();
+            }
+
             if (window.location.hash) {
                 load();
             } else {
