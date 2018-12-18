@@ -13,6 +13,10 @@ div.newsroom.inline {
     float: left;
     margin: 10px 25px 15px 0;
     width: $widgetWidth;
+
+    p{
+        margin-bottom: 16px;
+    }
 }
 
 @media only screen and (max-device-width: 480px) {
