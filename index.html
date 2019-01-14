@@ -74,7 +74,7 @@
                     id ligula porta felis euismod semper. Vestibulum id ligula porta felis euismod semper. Nulla vitae
                     elit
                     libero, a pharetra augue.</p>
-                <div class="newsroom"></div>
+                <div class="newsroom" data-datavar="1"></div>
                 <p>Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac
                     cursus commodo,
                     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla
@@ -88,6 +88,7 @@
                     nisl consectetur et. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla
                     non
                     metus auctor fringilla.</p>
+                <div class="newsroom" data-datavar="2"></div>
                 <p>Cras mattis consectetur purus sit amet fermentum. Cras mattis consectetur purus sit amet fermentum.
                     Donec
                     ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Aenean eu leo
@@ -143,24 +144,36 @@
                 list.style.display = 'none';
                 wrapper.style.display = 'block';
                 var uid = window.location.hash.replace('#', '');
-                loadSampleData(uid);
+
                 //window[uid + '-1'] = JSON.parse()
                 //
-                var el = document.querySelector('div.newsroom');
-                el.classList.add('newsroom--'+uid);
-                el.setAttribute('data-app', uid);
-                el.setAttribute('data-datavar', uid + '-1');
+
+                var els = document.querySelectorAll('div.newsroom');
+                els.forEach(function (el) {
+                    loadSampleData(uid, el.dataset.datavar);
+                    el.classList.add('newsroom--' + uid);
+                    el.setAttribute('data-app', uid);
+                    el.setAttribute('data-datavar', uid + '-' + el.dataset.datavar);
+                });
+                //var el = document.querySelectorAll('div.newsroom');
+
                 var script = document.createElement('script');
                 script.setAttribute('src', 'dist/' + uid + '.min.js');
                 wrapper.appendChild(script);
             }
 
-            function loadSampleData(uid) {
+            function loadSampleData(uid, idx) {
+                if (idx === undefined) {
+                    idx = "1";
+                }
                 var url = '/src/' + uid + '/sample-data.json';
+                if (idx !== "1") {
+                    url = '/src/' + uid + '/sample-data' + '-' + idx + '.json';
+                }
                 var xmlhttp = new XMLHttpRequest();
                 xmlhttp.onreadystatechange = function () {
                     if (this.readyState === 4 && this.status === 200) {
-                        window[uid + '-1'] = JSON.parse(this.responseText);
+                        window[uid + '-' + idx] = JSON.parse(this.responseText);
                     }
                 };
                 xmlhttp.open('get', url, true);

@@ -3,9 +3,6 @@ require('./style.source.scss');
 let html = require('./markup.source.html');
 
 export default (function () {
-    const selector = `div.newsroom--legislative-summary`;
-    const containers = document.querySelectorAll(selector);
-
     const toggleTab = function (event) {
         event.preventDefault();
         let year = event.target.dataset.year;
@@ -101,6 +98,8 @@ export default (function () {
     };
 
     // Initialize any and all widgets
+    const selector = `div.newsroom--legislative-summary`;
+    const containers = document.querySelectorAll(selector);
     for (let i = 0; i < containers.length; i++) {
         setup(containers[i], window[containers[i].dataset.datavar])
     }
