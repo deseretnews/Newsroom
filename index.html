@@ -144,8 +144,6 @@
                 wrapper.style.display = 'block';
                 var uid = window.location.hash.replace('#', '');
                 loadSampleData(uid);
-                //window[uid + '-1'] = JSON.parse()
-                //
                 var el = document.querySelector('div.newsroom');
                 el.classList.add('newsroom--'+uid);
                 el.setAttribute('data-app', uid);
@@ -164,7 +162,7 @@
                     }
                 };
                 xmlhttp.open('get', url, true);
-                xmlhttp.send();
+                if (uid === 'legislative-summary') xmlhttp.send();
             }
 
             if (window.location.hash) {

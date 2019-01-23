@@ -1,0 +1,18 @@
+@import '../style.global.scss';
+
+div.newsroom[data-app="n771e88013088c329"] {
+    div#app {
+        div#map {
+            height: 300px;
+            width: 100%;
+            background-color: red;
+        }
+    }
+}
+
+@media only screen and (max-device-width: 480px) {
+    div.newsroom[data-app="n771e88013088c329"] {
+        padding: 5px;
+        box-sizing: border-box;
+    }
+}
